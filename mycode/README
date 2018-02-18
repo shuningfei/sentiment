@@ -1,0 +1,10 @@
+Data set: rt-polaritydata
+
+useful python files:
+
+build_data.py, build_vocab_embed.py
+
+cnn_class_fm_static.py, cnn_class_fm_tuned.py
+
+execute.py
+

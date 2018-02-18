@@ -1,0 +1,8 @@
+internal_id
+product_id
+review_id
+sentence or disappeared
+subjective []
+aspect []
+relations [()]
+

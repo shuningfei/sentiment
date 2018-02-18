@@ -1,0 +1,3188 @@
+product id: B000ALVUM6
+review text: Die Information über die erworbene Kaffeemaschine war ausreichend.Die Bedienung ist auch ok.Die Lieferung war einwandfrei.Schnelle Lieferung und gute verpackung.
+
+relations:
+aspect token: Bedienung
+subjective token: ok
+subjective polar: neutral
+
+aspect token: Lieferung
+subjective token: einwandfrei
+subjective polar: positive
+
+aspect token: Lieferung
+subjective token: Schnelle
+subjective polar: positive
+
+aspect token: verpackung
+subjective token: gute
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine versorgt jetzt schon eine geraume Zeit unsere Schicht mit gutem Kaffee.Tag für Tag versorgt sie 7 Personen mit einem hervoragend gebrühtem Kaffee.Manchmal bis zu 3 Kannen pro Tag.Das ist schon eine beachtliche Leistung.Davon abgesehen Die wichtigsten PunkteSchöne OptikDie Kanne Tropft nichtGut zu ReinigenDie klappe zum Wassereinfüllen ist großDie Tassenskala ist gut ablesbarEinfache gute BedienungPreis Leistung ist superKann sie nur Empfehlen
+
+relations:
+aspect token: Kaffee
+subjective token: gutem
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: hervoragend gebrühtem
+subjective polar: positive
+
+aspect token: Leistung
+subjective token: beachtliche
+subjective polar: positive
+
+aspect token: Optik
+subjective token: wichtigsten Punkte
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: wichtigsten Punkte
+subjective polar: positive
+
+aspect token: Reinigen
+subjective token: wichtigsten Punkte
+subjective polar: positive
+
+aspect token: klappe
+subjective token: wichtigsten Punkte
+subjective polar: positive
+
+aspect token: Tassenskala
+subjective token: wichtigsten Punkte
+subjective polar: positive
+
+aspect token: Bedienung
+subjective token: wichtigsten Punkte
+subjective polar: positive
+
+aspect token: Preis Leistung
+subjective token: wichtigsten Punkte
+subjective polar: positive
+
+aspect token: Optik
+subjective token: Schöne
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: Tropft nicht
+subjective polar: positive
+
+aspect token: Reinigen
+subjective token: Gut
+subjective polar: positive
+
+aspect token: klappe
+subjective token: groß
+subjective polar: positive
+
+aspect token: Tassenskala
+subjective token: gut ablesbar
+subjective polar: positive
+
+aspect token: Bedienung
+subjective token: Einfache gute
+subjective polar: positive
+
+aspect token: Preis Leistung
+subjective token: super
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Sehr empfehlenswerte Kaffeemaschine und durch die Abschaltautomatik kann man eine Menge Strom sparen. Thermoskanne funktioniert auch sehr gut.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Sehr gute
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: Sehr empfehlenswerte
+subjective polar: positive
+
+aspect token: Abschaltautomatik
+subjective token: Menge Strom sparen
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: sehr gut
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Aufgrund der vielen positiven Rezensionen habe ich mich nach langem Recherchieren für diese Kaffeemaschine entschieden, und ich habe es nicht bereut. Mir war vor allem wichtig, dass die Kaffeemaschine leicht zu bedienen ist, die Kanne nicht tropft, der Kaffee vor allem heiß ist und auch bleibt und dass sich die Maschine nach dem Brühen selbstständig abschaltet. All das erfüllt diese Kaffeemaschine, deshalb kann ich auch die genannten Kritikpunkte, die einige Rezententen anführen, nicht bestätigen. Ichbin sehr zufrieden damit und kann diese Maschine nur weiter empfehlen!Auch 5 Sterne an Amazon für die schnelle Zusendung! Kaufe hier immer sehr gern!
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: nicht bereut
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: leicht zu bedienen
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: nicht tropft
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: heiß
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: selbstständig abschaltet
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: kann ich auch die genannten Kritikpunkte, die einige Rezententen anführen, nicht bestätigen
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: nur weiter empfehlen
+subjective polar: positive
+
+aspect token: Amazon
+subjective token: 5 Sterne
+subjective polar: positive
+
+aspect token: Zusendung
+subjective token: schnelle
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Nicht nur sieht die Phillips Gaia Kaffemachine sehr edel in unserer Kücke aus, der optische Eindruck spiegelt sich auch voll in der Bau- und Materialqualität wieder.  Der Kaffee ist extrem schnell fertig (volle Kanne ca. 4 min.)und wird in der Voll-Edelstahl (kann nicht zerbrechen) Thermoskanne bis zu 5 Stunden warm gehalten (Der Kaffee hat bei uns nur 1x so lange überlebt, dass wir dies testen konnten, sonst ist die Kannne immer innerhalb einer Stunde leer....)  Mein Mann und ich sind begeistert und mehr als zufrieden, vor allen Dingen auch über den mehr als angemessenen Preis.
+
+relations:
+aspect token: Thermoskanne
+subjective token: bis zu 5 Stunden warm
+subjective polar: positive
+
+aspect token: sieht
+subjective token: sehr edel
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: extrem schnell fertig
+subjective polar: positive
+
+aspect token: Preis
+subjective token: mehr als angemessenen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Sehr gutes Design, automatische Aus (off-) Funktion, der Kaffee bleibt noch mehrere Stunden heiß/warmein Manko stellt die Verfärbung der Kanneninnenwände dar, war aber nicht weiter schlimm ist, denn Kaffeefarbstoffe lagern sich nun mal ab. Zu den vorherigen Bewertungen bezüglich des Geruchs (Chemiegeruch) kann ich sagen, dass bei meiner Kaffemaschine das nicht der Fall war, vielleicht war das nur Glück bzw. der Hersteller hat rechtzeitig eingelenkt und den Chemiegeruch beseitigt. Das Produkt kann man wirklich weiterempfehlen.
+
+relations:
+aspect token: Thermofunktion
+subjective token: gelungen
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: lange Zeit frischer
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: heißer
+subjective polar: positive
+
+aspect token: Design
+subjective token: Sehr gutes
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: noch mehrere Stunden heiß/warm
+subjective polar: positive
+
+aspect token: Verfärbung der Kanneninnenwände
+subjective token: Manko
+subjective polar: negative
+
+aspect token: Verfärbung der Kanneninnenwände
+subjective token: nicht weiter schlimm
+subjective polar: neutral
+
+aspect token: Kaffemaschine
+subjective token: nicht der Fall
+subjective polar: positive
+
+aspect token: Hersteller
+subjective token: rechtzeitig eingelenkt
+subjective polar: positive
+
+aspect token: Chemiegeruch
+subjective token: beseitigt
+subjective polar: positive
+
+aspect token: Produkt
+subjective token: wirklich weiterempfehlen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: bisher war ich noch nicht enttäuscht worden von einem philips produkt. auch diesesmal nicht. der kaffeeautomat sieht sehr wertig aus, die handhabung ist o.k. und das ergebnis kaffee wie gewünscht. in der kanne bleibt der kaffee lang gut heiß. der preis ist zwar nicht so klein, aber dafür ist das eingesetzte material sehr gut. ich hoffe, ich habe lange freude daran.
+
+relations:
+aspect token: modell
+subjective token: ästhetisches
+subjective polar: positive
+
+aspect token: philips produkt
+subjective token: noch nicht enttäuscht
+subjective polar: positive
+
+aspect token: sieht
+subjective token: sehr wertig
+subjective polar: positive
+
+aspect token: handhabung
+subjective token: o.k.
+subjective polar: neutral
+
+aspect token: kaffee
+subjective token: gewünscht
+subjective polar: positive
+
+aspect token: kaffee
+subjective token: lang gut heiß
+subjective polar: positive
+
+aspect token: preis
+subjective token: zwar nicht so klein
+subjective polar: negative
+
+aspect token: material
+subjective token: sehr gut
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Dieses Teil können wir nur empfehlen.Im Gegensatz zu unserem alten KRUPPS verbrauchen wir ca.20 .v.H wenigerKaffeepulver bei beserem  Aroma und Geschmack.Die Thermokanne ist das Beste was wir bisher hatten.Wir würden dieses Teil wieder kaufen.
+
+relations:
+aspect token: Kaffee
+subjective token: sehr guter
+subjective polar: positive
+
+aspect token: heiß
+subjective token: laaaange
+subjective polar: positive
+
+aspect token: Teil
+subjective token: nur empfehlen
+subjective polar: positive
+
+aspect token: Kaffeepulver
+subjective token: verbrauchen wir ca.20 .v.H weniger
+subjective polar: positive
+
+aspect token: Aroma
+subjective token: beserem
+subjective polar: positive
+
+aspect token: Geschmack
+subjective token: beserem
+subjective polar: positive
+
+aspect token: Thermokanne
+subjective token: Beste
+subjective polar: positive
+
+aspect token: Teil
+subjective token: würden dieses Teil wieder kaufen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Ich habe diese Kaffeemaschine jetzt ungefähr zwei Wochen und benutze sie sehr oft. Der Kaffee schmeckt gut, ich habe hierzu keine Beanstandungen zu machen.Die Maschine selbst sieht sehr gut aus und paßt in jede Küche, da auch nicht übermäßig groß. Die Thermokanne hält den Kaffee lange heiß, besonders wenn man sie vor dem Durchlauf mit heißem Wasser ausspült. Lediglich, wie bereits von anderen Rezensenten vermerkt, läuft das Innere der Kanne nach drei bis vier Durchläufen stark an. Reinigen mit einer Spülbürste und Spülmittel hilft hier nicht viel. Ich nehme dann Essiglösung. Das hilft und läßt die Kanne wieder strahlen.Weiterhin läßt sich der Filterhalter nur im Ganzen zur Reinigung oder Entfernung des vollen Kaffeefilters abnehmen. Das kenne ich von anderen Maschinen etwas bequemer, da man dort lediglich den Einsatz herausnehmen muß.Insgesamt bin ich aber sehr zufrieden, ich kann diese Kaffeemaschine nur empfehlen.
+
+relations:
+aspect token: Maschine
+subjective token: Gute
+subjective polar: positive
+
+aspect token: Geld
+subjective token: gutes
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt gut
+subjective polar: positive
+
+aspect token: sieht
+subjective token: sehr gut
+subjective polar: positive
+
+aspect token: groß
+subjective token: nicht übermäßig
+subjective polar: positive
+
+aspect token: Thermokanne
+subjective token: hält den Kaffee lange heiß
+subjective polar: positive
+
+aspect token: Maschinen
+subjective token: kenne ich von anderen Maschinen etwas bequemer
+subjective polar: negative
+
+aspect token: Kaffeemaschine
+subjective token: nur empfehlen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine sieht sehr edel aus. Sie funktioniert nun schon seit drei Jahren ohne Probleme.Einfache Reinigung, Thermoskanne hält sehr gut warm.
+
+relations:
+aspect token: Optisch
+subjective token: Top
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: sehr gut
+subjective polar: positive
+
+aspect token: sieht
+subjective token: sehr edel
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: ohne Probleme
+subjective polar: positive
+
+aspect token: Reinigung
+subjective token: Einfache
+subjective polar: positive
+
+aspect token: Thermoskanne
+subjective token: hält sehr gut warm
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Sehr gut! Keinerlei Mängel oder ungeschickte Bedienung zu beklagen! Läuft super und schnell, tropft nicht beim Einschenken. Wasserbehälter und Filter gut zu errreichen!
+
+relations:
+aspect token: Bedienung
+subjective token: Keinerlei Mängel oder ungeschickte
+subjective polar: positive
+
+aspect token: Läuft
+subjective token: super
+subjective polar: positive
+
+aspect token: Läuft
+subjective token: schnell
+subjective polar: positive
+
+aspect token: Einschenken
+subjective token: tropft nicht
+subjective polar: positive
+
+aspect token: Wasserbehälter
+subjective token: gut zu errreichen
+subjective polar: positive
+
+aspect token: Filter
+subjective token: gut zu errreichen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Sieht gut aus. Kaffee macht sie auch noch.60 EUR finde ich angemessen. Wenn man bedenkt das die Geräte meist nach 5 Jahren den Geist aufgeben, wollte ich diesmal keine 100 EUR ausgeben und habe mal im unteren Segment gestöbert.Die vielzahl der guten Bewertungen täuscht nicht.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Schöne gefällig
+subjective polar: positive
+
+aspect token: Sieht
+subjective token: gut
+subjective polar: positive
+
+aspect token: 60 EUR
+subjective token: angemessen
+subjective polar: neutral
+
+aspect token: vielzahl der guten Bewertungen
+subjective token: täuscht nicht
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Diese Kaffeemaschine sieht nicht nur gut aus, sie funktioniert auch tadellos und schaltet sich selber aus.Wir hatten bei der ersten Maschine einen mini-Defekt, dass der Power-Knopf nicht geleuchtet hat. Aber Philips hat ohne meckern umgetauscht, und super schnell.Die integrierte Thermoskasse ist noch das Sahnehäubchen! Kaffee kocht sehr schnell durch und hält in der Kanne auch schön lang warm!Alles in allem: Top Produkt!
+
+relations:
+aspect token: Maschine
+subjective token: Klasse
+subjective polar: positive
+
+aspect token: sieht
+subjective token: gut
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: tadellos
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: mini-Defekt
+subjective polar: negative
+
+aspect token: Power-Knopf
+subjective token: nicht geleuchtet
+subjective polar: negative
+
+aspect token: Philips
+subjective token: ohne meckern
+subjective polar: positive
+
+aspect token: integrierte Thermoskasse
+subjective token: Sahnehäubchen
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: sehr schnell
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: schön lang warm
+subjective polar: positive
+
+aspect token: Produkt
+subjective token: Top
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Ich habe ein einwandfreies Produkt zum günstigen Preis mit zügiger Lieferung erhalten.So muß Einkauf per Internet funktionieren!
+
+relations:
+aspect token: Produkt
+subjective token: Einwandfreies
+subjective polar: positive
+
+aspect token: Produkt
+subjective token: einwandfreies
+subjective polar: positive
+
+aspect token: Preis
+subjective token: günstigen
+subjective polar: positive
+
+aspect token: Lieferung
+subjective token: zügiger
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Kaffeemaschine ist gut. Sie läuft sehr schnell durch und man muss sich allerdings nur an das öffnen des Deckels gewöhnen.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: gut
+subjective polar: positive
+
+aspect token: läuft
+subjective token: sehr schnell
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Das Produkt ist sehr gut, der Kaffee bleibt ca. 4 Std. warm, die Edelstahlkanne erfüllt ihren Zweck und bietet einiges für die Optik, die Lieferung war mega schnell, immer wieder gerne.
+
+relations:
+aspect token: Produkt
+subjective token: Tolles
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: bleibt ca. 4 Std. warm
+subjective polar: positive
+
+aspect token: Produkt
+subjective token: sehr gut
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: bleibt ca. 4 Std. warm
+subjective polar: positive
+
+aspect token: Edelstahlkanne
+subjective token: erfüllt ihren Zweck
+subjective polar: neutral
+
+aspect token: Optik
+subjective token: bietet einiges
+subjective polar: positive
+
+aspect token: Lieferung
+subjective token: mega schnell
+subjective polar: positive
+
+aspect token: Lieferung
+subjective token: immer wieder gerne
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: mit dieser maschine bin ich ausgesprochen zufrieden. Sie hat ein großes Fassungsvermögen und arbeitet schnell, jedoch nicht unbedingt leise. Außerdem sieht sie gut aus
+
+relations:
+aspect token: maschine
+subjective token: ausgesprochen zufrieden
+subjective polar: positive
+
+aspect token: Fassungsvermögen
+subjective token: großes
+subjective polar: positive
+
+aspect token: arbeitet
+subjective token: schnell
+subjective polar: positive
+
+aspect token: sieht
+subjective token: gut
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffee Maschine ist täglich mehrmals im Einsatz. Das Kaffee Aroma wird bestens erzeugt. Die Wärme wird gut gehalten. So macht Keffeetrinken Spaß.
+
+relations:
+aspect token: täglichen Kaffee Genuß
+subjective token: Bestens geeignet
+subjective polar: positive
+
+aspect token: Kaffee Aroma
+subjective token: bestens erzeugt
+subjective polar: positive
+
+aspect token: Wärme
+subjective token: gut gehalten
+subjective polar: positive
+
+aspect token: Keffeetrinken
+subjective token: So macht Keffeetrinken Spaß
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Dieser Kauf hat sich gelohnt! Die Maschine sieht gut aus, der Kaffee schmeckt gut und ist sehr heiß, auch nach längerer Zeit, dank der guten Thermoskanne.Der Verschluß der Kanne ist etwas gewöhnungsbedürftig, aber nach wenigen Tagen geht auch das blind. Die Maschine brüht sehr schnell und schaltet sich danach umgehend aus,der Kaffee läßt sich kleckerfrei einschenken. Genau was ich gesucht hatte!!!
+
+relations:
+aspect token: Kauf
+subjective token: guter
+subjective polar: positive
+
+aspect token: Kauf
+subjective token: hat sich gelohnt
+subjective polar: positive
+
+aspect token: sieht
+subjective token: gut
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt gut
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: sehr heiß
+subjective polar: positive
+
+aspect token: Thermoskanne
+subjective token: guten
+subjective polar: positive
+
+aspect token: brüht
+subjective token: sehr schnell
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: läßt sich kleckerfrei einschenken
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine wurde für das Büro angeschafft. Seit geraumer Zeit ist das gerät im Dauereinsatz ( ca 8 Brühvorgänge ( 8 Liter ) pro Tag.)Bislang keine Mängel erkennbar. Entgegen der AMAZON beschreibung, schaltet sich die Maschine auch von selber aus.das Highlight ist die aber die Kanne selber. Absolut "Unzerkuttbar" :-), toller Verschluss. Die Maschine hat eine tolle Optik Kanne ist am besten mit Spühlm. Taps zu reinigen.Abschlusstipp:Wenn der Kaffee durch ist, die Kanne aus der Maschine nehmen ( das hebt die 5 negativ Bewertungen auf, welche meinten, dass  der Kaffee zu schnell kalt wird. Beim Brühvorgang wird der Verschluss nach unten gedrückt, was logisch ist, da sonst keine Flüssigkeit in die Kanne kann :-)
+
+relations:
+aspect token: Preis Leistung
+subjective token: Weltklasse
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: Highlight
+subjective polar: positive
+
+aspect token: Verschluss
+subjective token: toller
+subjective polar: positive
+
+aspect token: Optik
+subjective token: tolle
+subjective polar: positive
+
+aspect token: 5 negativ Bewertungen
+subjective token: hebt die 5 negativ Bewertungen auf
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine ist robust und die Thermoskanne hält den Kaffee dann auch über längere Zeit warm. Würde die Maschine wieder kaufen.
+
+relations:
+aspect token: Maschine
+subjective token: Tolle
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: robust
+subjective polar: positive
+
+aspect token: Thermoskanne
+subjective token: hält den Kaffee dann auch über längere Zeit warm
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: Würde die Maschine wieder kaufen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Diese Kaffeemaschine kann ich nur empfehlen!Sie sieht chic aus und ist dabei sehr handlich, obwohl der Deckel der Kanne links herum aufgeht. Der Wasserbehälter ist schön breit, dadurch lässt sich das Wasser kinderleicht einfüllen. Der Kaffee ist fix durchgelaufen und bleibt ,sofern die Kanne min. dreiviertel voll ist, über mehrere Stunden heiß und genießbar. Praktisch ist auch ihre Abschaltautomatik, dass spart Strom. Würde sie mir jederzeit wieder kaufen.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: nur empfehlen
+subjective polar: positive
+
+aspect token: sieht
+subjective token: chic
+subjective polar: positive
+
+aspect token: Wasserbehälter
+subjective token: schön breit
+subjective polar: positive
+
+aspect token: Wasser
+subjective token: kinderleicht einfüllen
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: über mehrere Stunden heiß
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: genießbar
+subjective polar: positive
+
+aspect token: Abschaltautomatik
+subjective token: Praktisch
+subjective polar: positive
+
+aspect token: Strom
+subjective token: spart
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Maschine ist nun einige Wochen in Gebrauch und ich bin mit ihr uneingeschränkt zufrieden. Die Handhabung - auch des Filterwechsels bzw. der Filterhalterreinigung - ist einfach und zweckmäßig. Keine Spur von Schwierigkeiten, wie in einer anderen Rezension erwähnt. Man muß die Wassermenge am Anfang etwas ausprobieren, denn bekanntlich sind die Tassenanzeigen nicht unbedingt mit der eigenen Tassengröße identisch.Die Kanne hält ewig warm, kann o.w. auf einen Holztisch gestellt werden, da die Außenhaut kalt ist, was auf eine wirklich gute Isolation schließen läßt.
+
+relations:
+aspect token: Maschine
+subjective token: die alles hat
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: uneingeschränkt zufrieden
+subjective polar: positive
+
+aspect token: Handhabung
+subjective token: einfach
+subjective polar: positive
+
+aspect token: Handhabung
+subjective token: zweckmäßig
+subjective polar: positive
+
+aspect token: Rezension
+subjective token: Keine Spur von Schwierigkeiten
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: hält ewig warm
+subjective polar: positive
+
+aspect token: Isolation
+subjective token: wirklich gute
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: meine phillips Hd 7546/20 Thermo Kaffemaschineleicht zu bedienen, sehr Heiserkaffedie Thermo Kanne hält den Kaffee sehr lange heis
+
+relations:
+aspect token: phillips Hd 7546/20 Thermo Kaffemaschine
+subjective token: leicht zu bedienen
+subjective polar: positive
+
+aspect token: kaffe
+subjective token: sehr Heiser
+subjective polar: positive
+
+aspect token: Thermo Kanne
+subjective token: hält den Kaffee sehr lange heis
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Nach dem Reinfall mit einem anderen Fabrikat, war ich etwas skeptisch, aber diesmal ich bin begeistert.Der Kaffee ist heiß und er schmeckt auch noch. Die Bedienung ist einfach zu handhaben, ich binvollkommen zufrieden. Die Abwicklung war in Ordnung, es hat alles schnell und reibungslos geklappt.
+
+relations:
+aspect token: anderen Fabrikat
+subjective token: Reinfall
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: heiß
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt auch noch
+subjective polar: positive
+
+aspect token: Bedienung
+subjective token: einfach zu handhaben
+subjective polar: positive
+
+aspect token: Abwicklung
+subjective token: in Ordnung
+subjective polar: neutral
+
+
+product id: B000ALVUM6
+review text: ich habe zwei kaffemaschinen für unsere pausenräume bestellt und die gebrauchsanleitung ist einfach zu lesen. die maschinen wurden heute geliefert und wurden direkt auch benutzt. die maschine ist sehr schnell und in wenigen minuten kann man den köstlichen und heißen kaffee genießen. wir sind sehr zufrieden. also ich kann auf alle fälle diese maschine nur weiterempfehlen !!!
+
+relations:
+aspect token: gebrauchsanleitung
+subjective token: einfach zu lesen
+subjective polar: positive
+
+aspect token: maschine
+subjective token: sehr schnell
+subjective polar: positive
+
+aspect token: kaffee
+subjective token: köstlichen
+subjective polar: positive
+
+aspect token: kaffee
+subjective token: heißen
+subjective polar: positive
+
+aspect token: maschine
+subjective token: nur weiterempfehlen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine ist sehr gut für alle Bereiche des täglichen Lebens geeignet.Sie arbeitet schnell und der Kaffee ist sehr heiß.Die Thermoskanne hält auch kleine Mengen lange warm.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: perfekte
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: sehr gut
+subjective polar: positive
+
+aspect token: arbeitet
+subjective token: schnell
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: sehr heiß
+subjective polar: positive
+
+aspect token: Thermoskanne
+subjective token: lange warm
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Der Kaffee bleibt schön heiß. Die Kanne ist groß genug. Ein Nachteil ist der nicht ganz dichte Deckel (wenn man die Kanne transportieren will).
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Gute
+subjective polar: positive
+
+aspect token: Design
+subjective token: hübschem
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schön heiß
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: groß genug
+subjective polar: positive
+
+aspect token: Deckel
+subjective token: Nachteil
+subjective polar: negative
+
+aspect token: Deckel
+subjective token: nicht ganz dichte
+subjective polar: negative
+
+
+product id: B0000BY5H0
+review text: Wir sind sehr zufrieden. Gekauft und kam super schnell per Post bei uns an. Wir können dieses Produkt nur weiterempfehlen und waren mit dem Service wirklich sehr zufrienden.
+
+relations:
+aspect token: Service
+subjective token: Super
+subjective polar: positive
+
+aspect token: Post
+subjective token: super schnell
+subjective polar: positive
+
+aspect token: Produkt
+subjective token: nur weiterempfehlen
+subjective polar: positive
+
+aspect token: Service
+subjective token: wirklich sehr zufrienden
+subjective polar: positive
+
+
+product id: B0000BY5H0
+review text: Die Kaffeemaschine ist ein Klassiker. Es gibt mit Sicherheit bessere Maschinen, aber die bietet das beste Preis-Leistung-Verhältnis. Wir haben die Maschine in der Firma und sie läuft sein 4 Wochen pausenlos.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Klassiker
+subjective polar: positive
+
+aspect token: Maschinen
+subjective token: mit Sicherheit bessere
+subjective polar: negative
+
+aspect token: Preis-Leistung-Verhältnis
+subjective token: beste
+subjective polar: positive
+
+
+product id: B0024NPPGA
+review text: Ich habe mir das Gerät für meine kleine Küche gekauft, weil ich nur 3 Geräte mit dem zusätzlichen Kabelgewirr haben wolle. Dieses Teil erschien mir ideal, ist ja auch eine tolle Idee für kleine Küchen, Studentenbuden, WG usw.Die bemängelte Qualität konnte ich bislang nicht feststellen, aber ich benutze die Geräte auch erst seit zwei Wochen und auch nicht täglich.Das Design ist top, rein optisch wirkt das Teil meiner Meinung nach schöner als 3 Geräte verschiedener Hersteller, Farben usw. Gut, es wirkt wie ein Klotz, aber das tut jede Microwelle ja auch.Die Ergebnisse sind meiner Meinung auch absolut OK, ich bin da aber auch nicht besonders anspruchsvoll. Ein Toast ist ein Toast, Kaffee ist Kaffee und das Wasser im Kocher muss ja auch nur heiß werden.Wenn es einmal inerhalb der Garantie Probleme geben wird trage ich diese hier nach, aber im Moment bin ich, weil es halt so praktisch ist, noch begeistert von dem Gerät.
+
+relations:
+aspect token: Teil
+subjective token: ideal
+subjective polar: positive
+
+aspect token: kleine Küchen
+subjective token: tolle Idee
+subjective polar: positive
+
+aspect token: Studentenbuden
+subjective token: tolle Idee
+subjective polar: positive
+
+aspect token: WG
+subjective token: tolle Idee
+subjective polar: positive
+
+aspect token: Qualität
+subjective token: bemängelte Qualität konnte ich bislang nicht feststellen
+subjective polar: positive
+
+aspect token: Design
+subjective token: top
+subjective polar: positive
+
+aspect token: 3 Geräte verschiedener Hersteller
+subjective token: rein optisch wirkt das Teil meiner Meinung nach schöner als
+subjective polar: positive
+
+aspect token: Teil
+subjective token: rein optisch wirkt das Teil meiner Meinung nach schöner als
+subjective polar: positive
+
+aspect token: Ergebnisse
+subjective token: absolut OK
+subjective polar: neutral
+
+aspect token: Gerät
+subjective token: so praktisch
+subjective polar: positive
+
+aspect token: Gerät
+subjective token: begeistert
+subjective polar: positive
+
+
+product id: B0000BY5H0
+review text: Die Maschine funktioniert gut und sieht stylisch aus. Der Geschmack kommt aber dennoch nicht an den einer z.B. Dolce Gusto heran.Dafür sind die Pads aber relativ kostengünstig.
+
+relations:
+aspect token: Kaffee
+subjective token: Schneller
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: gut
+subjective polar: positive
+
+aspect token: Dolce Gusto
+subjective token: kommt aber dennoch nicht an den einer z.B. Dolce Gusto heran
+subjective polar: negative
+
+aspect token: Pads
+subjective token: relativ kostengünstig
+subjective polar: positive
+
+aspect token: sieht
+subjective token: stylisch
+subjective polar: positive
+
+
+product id: B00004RFRU
+review text: Der Klassiker schlechthin. Dazu beste Verarbeitung. Und der Espresso schmeckt super (  auch ohne Crema ). Die Reinigung ist wirklich einfach. Eine Blitzlieferung gab es obendrein.
+
+relations:
+aspect token: Verarbeitung
+subjective token: beste
+subjective polar: positive
+
+aspect token: Espresso
+subjective token: schmeckt super
+subjective polar: positive
+
+aspect token: Reinigung
+subjective token: wirklich einfach
+subjective polar: positive
+
+
+product id: B00403ZDPU
+review text: Ich möchte mich nur in aller Kürze den 5-Sterne-Bewertungen zu dieser Kaffeemaschine anschließen. Der Kaffee schmeckt perfekt und bei einem Preis von unter 200,00 € gibt es an dieser Maschine wirklich nix zu meckern.
+
+relations:
+aspect token: Kaffee
+subjective token: So muss Kaffee schmecken
+subjective polar: positive
+
+aspect token: Bewertungen
+subjective token: 5-Sterne
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt perfekt
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: wirklich nix zu meckern
+subjective polar: positive
+
+aspect token: Preis von unter 200,00 €
+subjective token: wirklich nix zu meckern
+subjective polar: positive
+
+
+product id: B00403ZDPU
+review text: Bin vollauf begeistert.Super kompakt und genau das Richtige für einen 2 Personenhaushalt mit den üblichen einkehrenden Besuchen.Das Tolle ist, man kann schnell andere Bohnen benutzen (xsmall) und man benötigt nicht enorm viel Platz zum Aufstellen.Die zuvor gelesenen Bewertungen haben mir persönlich sehr geholfen.Und zu guter Letzt :der gefragte Preis der Anbieterfirma war einfach unschlagbar, zumal schon in 2Tagen da! :-)))
+
+relations:
+aspect token: Kaffeevollautomat
+subjective token: Bester
+subjective polar: positive
+
+aspect token: kompakt
+subjective token: Super
+subjective polar: positive
+
+aspect token: 2 Personenhaushalt
+subjective token: genau das Richtige
+subjective polar: positive
+
+aspect token: andere Bohnen
+subjective token: Tolle
+subjective polar: positive
+
+aspect token: andere Bohnen
+subjective token: schnell andere Bohnen benutzen
+subjective polar: positive
+
+aspect token: Preis der Anbieterfirma
+subjective token: einfach unschlagbar
+subjective polar: positive
+
+
+product id: B004BCDB2C
+review text: Kaffee schmeckt definitiv aromatischer!!Hoher KaffeebohnenverbrauchKaffee wird nicht so heiß wie bei gewöhnlicher Kaffeemaschine und bleibt trotz Thermoskanne nicht lange warm. Das ist wirklich am auffälligsten bei der Kaffeemaschine!
+
+relations:
+aspect token: Kaffee
+subjective token: schmeckt definitiv aromatischer
+subjective polar: positive
+
+aspect token: gewöhnlicher Kaffeemaschine
+subjective token: nicht so heiß wie
+subjective polar: negative
+
+aspect token: Thermoskanne
+subjective token: trotz Thermoskanne nicht lange warm
+subjective polar: negative
+
+aspect token: Kaffeemaschine
+subjective token: am auffälligsten
+subjective polar: negative
+
+
+product id: B004BCDB2C
+review text: Bin sehr zufrieden alles suppi immer wider hoffe sie Leuft lange und das aroma bleibt mir lange erhalten supi suppi
+
+relations:
+aspect token: duft
+subjective token: super
+subjective polar: positive
+
+aspect token: aroma
+subjective token: bleibt mir lange erhalten
+subjective polar: neutral
+
+
+product id: B0000BY5H0
+review text: Grundsätzlich bin ich zufrieden. Es ist ja keine neue Kaffeepadmaschine von Senseo gewesen. Aber sie war gut verpackt als ich sie erhalten habe und sie ist wohl auch noch nicht oft benutzt worden. Ein kleiner Mängel war, dass das größere Sieb nach kurzer verstopft war.
+
+relations:
+aspect token: verpackt
+subjective token: gut
+subjective polar: positive
+
+aspect token: größere Sieb
+subjective token: nach kurzer verstopft
+subjective polar: negative
+
+
+product id: B00170RHXU
+review text: Meine Frau ist mit dem Kaffeeautomaten sehr zufrieden und kann ihn nur weiterempfehlen.Ich selbst kann keine Angaben machen, da ich mit dem "Haushalt" auf Kriegsfuß stehe (Worte meiner mir angetrauten Ehefrau).
+
+relations:
+aspect token: Kaffeeautomaten
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Kaffeeautomaten
+subjective token: nur weiterempfehlen
+subjective polar: positive
+
+
+product id: B0016H2PLS
+review text: Da ich keine Kaffemaschinen benutze, habe ich mir sonst immerguten Kaffe in eine Tasse gemacht und mit kochendem Wasserübergossen.Man muß dann lediglich aufpassen den Kaffeesatznicht mitzutrinken :-) Jetzt habe ich den Espressokocher und binbegeistert. Vom Geschmack her super.
+
+relations:
+aspect token: Kaffee
+subjective token: endlich gelingt
+subjective polar: positive
+
+aspect token: Espressokocher
+subjective token: begeistert
+subjective polar: positive
+
+aspect token: Geschmack
+subjective token: super
+subjective polar: positive
+
+
+product id: B005FQJUI2
+review text: Wir sind sehr begeistert von dieser Kaffeemaschine, der Kaffee ist schnell fertig und er schmeckt (warum auch immer) wesentlich besser als unsere alte Maschine.Einen Stern Abzug gibt es, weil die Maschine jede Woche anzeigt, dass sie entkalkt werden muss.Nur um Missverständnisse zu vermeiden, wenn das Lämpchen leuchtet entkalke ich sie auch sofort, somit ist es kein erneuerter Hilfeschrei der Maschine :-)Ansonsten ist die Maschine echt genial
+
+relations:
+aspect token: Gerät
+subjective token: Tolles
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: begeistert
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schnell fertig
+subjective polar: positive
+
+aspect token: unsere alte Maschine
+subjective token: schmeckt (warum auch immer) wesentlich besser als
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: echt genial
+subjective polar: positive
+
+
+product id: B0000BY5H0
+review text: leider nicht so, wie ich gesucht habe, aber ganz gut, kann nichts weiter dazu sagen. ist nicht besser als andere
+
+relations:
+aspect token: andere
+subjective token: nicht besser als
+subjective polar: negative
+
+
+product id: B00403ZDPU
+review text: Der Kaffeevollautomat erfüllt voll meine Erwartungen: nimmt nicht viel Platz weg, der Kaffee schmeckt vorzüglich, man wird darauf hingewiesen, wenn etwas zu tun ist, z.B. Kaffeebohnen nachfüllen.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Handliche
+subjective polar: positive
+
+aspect token: Kaffeevollautomat
+subjective token: erfüllt voll meine Erwartungen
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt vorzüglich
+subjective polar: positive
+
+
+product id: B00403ZDPU
+review text: Kompakte Maschine die einen guten Kaffe brüht. Der Wassertank könnte zwar etwas größer sein aber dieses hat auch den Vorteil das immer frisches Wasser im Tank ist. Ansonsten ein empfehlenswertes Gerät mit einem guten Preis Leistungsverhältnis
+
+relations:
+aspect token: Maschine
+subjective token: Kompakte
+subjective polar: positive
+
+aspect token: Kaffe
+subjective token: guten
+subjective polar: positive
+
+aspect token: Wassertank
+subjective token: könnte zwar etwas größer sein
+subjective polar: negative
+
+aspect token: Gerät
+subjective token: empfehlenswertes
+subjective polar: positive
+
+aspect token: Preis Leistungsverhältnis
+subjective token: guten
+subjective polar: positive
+
+aspect token: Wasser
+subjective token: Vorteil das immer frisches
+subjective polar: positive
+
+
+product id: B005FQJUI2
+review text: Beim Auspacken der Kaffeemaschine fällt schon die gute Verarbeitung ins Auge. Keine klapperndenPlastikteile und die Kanne war auch gut gesichert. Display lässt sich sehr gut ablesen und die Timerfunktionist auch sehr einfach zu nutzen und funktioniert einwandfrei. Die Kanne ist sehr robust und sieht auch nochgut aus. Einen Stern Abzug gibt es dafür das nur 8 große Tasse reinpassen und keine 10. Ansonsten einesehr gute Kaffeemaschine.
+
+relations:
+aspect token: Maschine
+subjective token: Sehr gute
+subjective polar: positive
+
+aspect token: Verarbeitung
+subjective token: gute Verarbeitung ins Auge
+subjective polar: positive
+
+aspect token: Plastikteile
+subjective token: Keine klappernden
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: gut gesichert
+subjective polar: positive
+
+aspect token: Display
+subjective token: sehr gut ablesen
+subjective polar: positive
+
+aspect token: Timerfunktion
+subjective token: sehr einfach
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: einwandfrei
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: sehr robust
+subjective polar: positive
+
+aspect token: sieht
+subjective token: auch nochgut
+subjective polar: positive
+
+aspect token: 8 große Tasse
+subjective token: nur 8 große Tasse reinpassen und keine
+subjective polar: negative
+
+aspect token: 10
+subjective token: nur 8 große Tasse reinpassen und keine
+subjective polar: negative
+
+aspect token: Kaffeemaschine
+subjective token: sehr gute
+subjective polar: positive
+
+
+product id: B000BNROJG
+review text: Die Maschine ist für den Preis sehr gut. Ich bin mit der Funktionsweise und dem Geschmack einschließlich der Crema sehr zufrieden. Die Beschreibung ist allerdings nicht vollständig, da nicht darauf hingewiesen wird, dass bereits ein Padhalter für die Zubereitung von Espresso dabei ist. Der weiter angebotene Padhalter für Espresso wird extra als Zubehör für diese Kaffeemaschine ausgewiesen, ist aber überhaupt nicht notwendig.Der Auslauf hat sehr viele Ecken und Kanten, durch die eine manuelle Reinigung nicht ganz einfach ist. Eine Reinigung im Geschirrspüler ist kein Problem.Der Wassertank lässt sich im unteren Bereich schlecht reinigen, weil man nicht unter dem Ventil reinigen kann. Merkwürdigerweise hat sich am Boden ein brauner Belag gebildet, was mir von einer Kollegin bestätigt wurde, die diese Maschine ebenfalls hat. Eine Reinigung in der Spülmaschine oder auch mit Reinigungstabletten hat nichts gebracht.Nach nunmehr fast zwei Jahren hat die Maschine Aussetzer, indem sie sich beim Zubereiten einfach abschaltet. Sie lässt sich aber dann sofort wieder einschalten.
+
+relations:
+aspect token: Maschine
+subjective token: Sehr schöne
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: sehr gut
+subjective polar: positive
+
+aspect token: Funktionsweise
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Geschmack
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Crema
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Beschreibung
+subjective token: nicht vollständig
+subjective polar: negative
+
+aspect token: angebotene Padhalter
+subjective token: ist aber überhaupt nicht notwendig
+subjective polar: negative
+
+aspect token: Auslauf
+subjective token: sehr viele
+subjective polar: negative
+
+aspect token: Ecken
+subjective token: sehr viele
+subjective polar: negative
+
+aspect token: Kanten
+subjective token: sehr viele
+subjective polar: negative
+
+aspect token: manuelle Reinigung
+subjective token: nicht ganz einfach
+subjective polar: negative
+
+aspect token: Reinigung im Geschirrspüler
+subjective token: kein Problem
+subjective polar: negative
+
+aspect token: Wassertank
+subjective token: schlecht reinigen
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: Aussetzer
+subjective polar: negative
+
+aspect token: Zubereiten
+subjective token: einfach abschaltet
+subjective polar: negative
+
+
+product id: B004BCDB2C
+review text: Dies ist die 2. Maschine die ich von diesem Typ gekauft habe . Mit der esrten war ich immer gut zufrieden, bis sie nach 2,5 Jahren plötzlich defekt war. Nach einigem überlegen, habe ich mich dann entschieden wieder das gleiche Modell zu kaufen. Die Maschine ist wirklich gut. Sie macht zwar beim Mahlen einen Höllenlärm, aber der Kaffee ist wirklich gut. Auch wenn man mal nur 2 Tassen kochen möchte sind diese perfekt. Ich hoffe nur, dass die neue Maschine länger hält. Dann wäre die Maschine 5 Sterne wert.
+
+relations:
+aspect token: Maschine
+subjective token: wirklich gut
+subjective polar: positive
+
+aspect token: Mahlen
+subjective token: Höllenlärm
+subjective polar: negative
+
+aspect token: Kaffee
+subjective token: wirklich gut
+subjective polar: positive
+
+aspect token: 2 Tassen
+subjective token: perfekt
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: 5 Sterne wert
+subjective polar: positive
+
+
+product id: B0000X5GAQ
+review text: Mit dem Kauf der Braun Kaffeemaschine bin ich sehr zufrieden!Problemlos zu bedienen und zu reinigen. Das Resultat Kaffee istgenußreich!
+
+relations:
+aspect token: Braun Kaffeemaschine
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: bedienen
+subjective token: Problemlos
+subjective polar: positive
+
+aspect token: reinigen
+subjective token: Problemlos
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: genußreich
+subjective polar: positive
+
+
+product id: B00008K63U
+review text: Habe es als Geschenk gekauft,kam sehr gut an,funktionen sind sehr übersichtlich, Preis ist auch o.k wenn sie im Angbot ist,
+
+relations:
+aspect token: funktionen
+subjective token: sehr übersichtlich
+subjective polar: positive
+
+aspect token: Preis
+subjective token: o.k
+subjective polar: neutral
+
+
+product id: B000T7Q116
+review text: Trotz mehrmaligen Entkalkungen mit unterschiedlichsten Flüssigkeiten - sei es mit Essig nach einem alten Hausbrauch, oder mit Durgol diese Kaffeemaschine ist nach einem Jahr kaputt. Wasser verdampft im Wasserbehälter, dadurch kommt nie die ganze Füllmenge in die Kanne. Ab diesem Zeitpunkt braucht der Kaffee eine gute Dreiviertel Stunde bis er durch ist.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: nach einem Jahr kaputt
+subjective polar: negative
+
+aspect token: Wasser
+subjective token: verdampft
+subjective polar: negative
+
+aspect token: Kaffee
+subjective token: gute Dreiviertel Stunde bis er durch ist
+subjective polar: negative
+
+aspect token: Leistung
+subjective token: Tadellose Leistung solange das Gerät neu ist
+subjective polar: negative
+
+
+product id: B0000BY5H0
+review text: Habe mir die Philips HD 7810/60 Kaffeepad Maschine  Senseo im Januar 2012 gekauft. War zuerst sehr zufrieden nach dem ich die richtigen Pads nach meinem Geschmack gefunden habe. Tolles Gerät so dachte ich bis sie Anfang April den Geist Aufgab (Wasseraustritt am Unterteil der Maschine, dann ging nichts mehr), also gerade mal 3 Monate Kaffeegenuß. Wir haben sehr weiches Wasser also kalkarm, produziert wird am Tag 1-2 kleine Tassen. Also bis jetzt noch in Reparatur. Ich denke dass mich die Senseo wirklich überzeugt, müssten noch etliche Tassen aus der Maschine kommen, ohne gleich kaputtzugehen! Kaffee schmeckt recht gut aber die Technik dürfte meiner Ansicht verbesserungswürdig sein.  Philips HD 7810/60 Kaffeepadmaschine Senseo schwarz
+
+relations:
+aspect token: Pads
+subjective token: zuerst sehr zufrieden
+subjective polar: positive
+
+aspect token: Gerät
+subjective token: den Geist Aufgab
+subjective polar: unknown
+
+aspect token: Senseo
+subjective token: denke dass mich die Senseo wirklich überzeugt, müssten noch etliche Tassen aus der Maschine kommen, ohne gleich kaputtzugehen
+subjective polar: negative
+
+aspect token: Kaffee
+subjective token: schmeckt recht gut
+subjective polar: positive
+
+aspect token: Technik
+subjective token: verbesserungswürdig
+subjective polar: negative
+
+
+product id: B00008K606
+review text: Meine Nachbarin hat diesen Kaffeeautomaten aromaboy schon seit ca.10 Jahren.Da der Kaffee so toll schmeckt,schnell zwei Tassen zubereitet sind,habe ich mich entschlossen diesen Kaffeeautomaten auch zu kaufen.Ich bin begeistert.Für 1-2 Tassen eine ideale Lösung.Der Kaffeeautomat nimmt nicht viel Platz weg und sieht richtig "niedlich" aus.Wer nur 1-2 Tassen frisch aufbrühen möchte,ist mit diesem Automaten gut beraten.
+
+relations:
+aspect token: Kaffee
+subjective token: so toll schmeckt
+subjective polar: positive
+
+aspect token: zwei Tassen
+subjective token: schnell
+subjective polar: positive
+
+aspect token: 1-2 Tassen
+subjective token: ideale Lösung
+subjective polar: positive
+
+aspect token: Kaffeeautomat
+subjective token: nimmt nicht viel Platz weg
+subjective polar: positive
+
+aspect token: sieht
+subjective token: richtig "niedlich"
+subjective polar: positive
+
+aspect token: Automaten
+subjective token: gut beraten
+subjective polar: positive
+
+
+product id: B0000BY5H0
+review text: April 2003 eine Senseo Maschine gekauft, Juni 2005 kaputt. Juni 2005 eine Senseo gekauft, Juli 2007 kaputt. August 2007 eine Senseo gekauft, September 2009 kaputt. September 2009 Senseo gekauft, Oktober 2011 kaputt...........nicht einmal eine Kulanz von Philips erlebt. Ob man sie kauft muss jeder selbst entscheiden, wir haben es wieder getan aber nach dieser gibt es einen Vollautomat.
+
+relations:
+aspect token: Philips
+subjective token: nicht einmal eine Kulanz
+subjective polar: negative
+
+aspect token: Vollautomat
+subjective token: nach dieser gibt es
+subjective polar: negative
+
+
+product id: B00008WVGJ
+review text: Es wurde bereits alles gesagt, bin sehr zufrieden. Toll finde ich die extra zuschaltbare Wärmeplatte, der Kaffee ist in kurzer Zeit wieder warm. Ich kann  manche Bewertungen nicht nachvollziehen, da die Wärmeplatte super ist, wenn man nach 15 Minuten abschaltet ist der Kaffee bereits sehr heiß. Optisch sieht die Maschine sehr edel aus und ich würde sie auf jeden Fall wieder kaufen, da der Kaffee auch besser ist, als in den Tröpferlmaschine. KLARE KAUFEMPFEHLUNG!
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Tolle
+subjective polar: positive
+
+aspect token: extra zuschaltbare Wärmeplatte
+subjective token: Toll
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: in kurzer Zeit wieder warm
+subjective polar: positive
+
+aspect token: Bewertungen
+subjective token: kann  manche Bewertungen nicht nachvollziehen
+subjective polar: positive
+
+aspect token: Wärmeplatte
+subjective token: super
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: sehr heiß
+subjective polar: positive
+
+aspect token: sieht
+subjective token: sehr edel
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: würde sie auf jeden Fall wieder kaufen
+subjective polar: positive
+
+aspect token: Tröpferlmaschine
+subjective token: besser ist, als
+subjective polar: positive
+
+
+product id: B005QJDM46
+review text: Günstiger Preis der Kaffee wird gut der Filter hakelt sich gerne mal am Deckel ein sollte mann etwas aufpassenware aber top
+
+relations:
+aspect token: maschine
+subjective token: gute
+subjective polar: positive
+
+aspect token: Preis
+subjective token: Günstiger
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: gut
+subjective polar: positive
+
+aspect token: Filter
+subjective token: hakelt sich gerne mal am Deckel ein
+subjective polar: negative
+
+aspect token: ware
+subjective token: top
+subjective polar: positive
+
+
+product id: B0000C2K21
+review text: Im Urlaub habe ich einen ähnlichen Kaffeeautomat mit Thermokanne kennengelernt.Die Warmhaltung hatte mich dort sehr positiv überrascht. Das dünne Kunststoffmaterialist zwar nicht gerade optimal stabil doch bei entsprechend schonendem Gebrauch vielleichttrotzdem ausreichend haltbar. Die beiden Thermokannen habe ich zum Probedurchlaufgleich getestet. Sie sind beide glücklicherweise sehr warmhaltend. In 5 Stunden etwa9 Grad Temperaturverlust. Durchlaufzeit bei 8 großen Tassen zirka 8,5 Minuten.Die Tassen-Skala könnte am Wasserbehälter innen auf =beiden= Seiten angebracht sein.
+
+relations:
+aspect token: Kaffee-Automat
+subjective token: Sehr passender
+subjective polar: positive
+
+aspect token: Kaffee-Automat
+subjective token: zweckmäßiger
+subjective polar: positive
+
+aspect token: dünne Kunststoffmaterial
+subjective token: nicht gerade optimal stabil
+subjective polar: negative
+
+aspect token: dünne Kunststoffmaterial
+subjective token: ausreichend haltbar
+subjective polar: neutral
+
+aspect token: Tassen-Skala
+subjective token: könnte am Wasserbehälter innen auf =beiden= Seiten angebracht sein
+subjective polar: negative
+
+
+product id: B0000D8066
+review text: Bei dieser Kaffeemaschine fehlt mir die Auswahltaste für 1-2 oder mehr Tassen, den ich bei meiner letzten Krups hatte. Außerdem war das Glasgefäß so dünnwandig, dass es gleich nach dem ersten Gebrauch kaputt gegangen ist. Die Qualität ließ einfach zu wünschen übrig, daher meine Bewertung mit drei Sternen.
+
+relations:
+aspect token: Auswahltaste für 1-2 oder mehr Tassen
+subjective token: fehlt mir
+subjective polar: negative
+
+aspect token: letzten Krups
+subjective token: bei meiner letzten Krups hatte
+subjective polar: negative
+
+aspect token: Glasgefäß
+subjective token: gleich nach dem ersten Gebrauch kaputt
+subjective polar: negative
+
+aspect token: Qualität
+subjective token: ließ einfach zu wünschen übrig
+subjective polar: negative
+
+aspect token: Bewertung
+subjective token: drei Sternen
+subjective polar: negative
+
+
+product id: B0024NPPGA
+review text: Da unser Sohn gerade in eine WG zog, kam dieses 3in1 Gerät gerade recht.Daher die Meinung von mehreren Personen, ich habe natürlich dort auch selbst getestet;-)Rein optisch ist das Frühstückscenter recht ansprechend, es nimmt auch nicht sehr viel Platz in Anspruch- deutlich weniger, als es drei Geräte tun würden. Die Bedienung ist einfach, die Skalen für Wassermengen gut erkennbar.Der Wasserkocher ist gut, er benötigt nicht sehr viel Zeit, bis das Wasser kocht. Sowie das Wasser kocht, schaltet er sich aus.Beim Toaster werden 2 Scheiben nebeneinander in den Schlitz gesteckt. Der fertige Toast ist gut- man kann ja wie überall seinen eigenen Bräunungsgrad einstellen. Es gibt sogar die Funktionen fürs Auftauen und den vorzeitigen Auswurf. Wenn man allerdings den Brötchenhalter ausklappt, um etwas aufzutauen...dafür ist dann doch zu wenig Platz, das Brötchen fällt häufig runter. Ist aber auch nicht so gewichtig, dass man hier negativ beurteilt.Die Kaffeemaschine besitzt einen sog. Permanentfilter- prima, denn jetzt fällt der Einkauf von Filtertüten weg.Der Kaffe läuft in einem annehmbaren Tempo durch und schmeckt absolut o.k.Wie gesagt- für eine WG ist ein solches Gerät Gold wert- das Preis- Leistungsverhältnis finde ich ausgewogen. Ob ich selbst ein solches 3erGestirn haben wollte- eher nicht. Ich bin verwöhnt von meinen hochwertigen Einzelgeräten. Aber für diesen Zweck-optimal!!
+
+relations:
+aspect token: Frühstückscenter
+subjective token: recht ansprechend
+subjective polar: positive
+
+aspect token: Frühstückscenter
+subjective token: nimmt auch nicht sehr viel Platz in Anspruch
+subjective polar: positive
+
+aspect token: drei Geräte
+subjective token: deutlich weniger, als
+subjective polar: positive
+
+aspect token: Bedienung
+subjective token: einfach
+subjective polar: positive
+
+aspect token: Skalen für Wassermengen
+subjective token: gut erkennbar
+subjective polar: positive
+
+aspect token: Wasserkocher
+subjective token: gut
+subjective polar: positive
+
+aspect token: Zeit
+subjective token: benötigt nicht sehr viel
+subjective polar: positive
+
+aspect token: Toast
+subjective token: gut
+subjective polar: positive
+
+aspect token: Permanentfilter
+subjective token: prima
+subjective polar: positive
+
+aspect token: Kaffe
+subjective token: läuft in einem annehmbaren Tempo durch
+subjective polar: positive
+
+aspect token: Kaffe
+subjective token: schmeckt absolut o.k.
+subjective polar: positive
+
+aspect token: Gerät
+subjective token: Gold wert
+subjective polar: positive
+
+aspect token: Preis- Leistungsverhältnis
+subjective token: ausgewogen
+subjective polar: positive
+
+aspect token: 3erGestirn
+subjective token: Ob ich selbst ein solches 3erGestirn haben wollte- eher nicht
+subjective polar: negative
+
+aspect token: hochwertigen Einzelgeräten
+subjective token: verwöhnt
+subjective polar: negative
+
+
+product id: B00008K63U
+review text: Eine ganz tolle Kaffeemaschine. Da gibts nicht viel zu sagen, als dass der Kaffee auch wirklich nach richtig gutem Kaffee schmeckt- dank dieser Maschine! Schneller Durchlauf, einfach ein tolles Aroma! Habe 3 Stück gekauft, für mich und Arbeit und alle sind glückliche Geniesser :-)
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: ganz tolle
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: wirklich nach richtig gutem Kaffee schmeckt
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: dank
+subjective polar: positive
+
+aspect token: Durchlauf
+subjective token: Schneller
+subjective polar: positive
+
+aspect token: Aroma
+subjective token: tolles
+subjective polar: positive
+
+aspect token: 3 Stück
+subjective token: Habe 3 Stück gekauft
+subjective polar: positive
+
+
+product id: B0000BY5H0
+review text: Als überdurchschnittlicher Kaffeekonsument musste die alte Senseo einer neuen Kaffeemaschine weichen. Natürlich wurde Sie gleich mit dem grossen Wassertank bestückt.Nach zwei Tagen allerdings war das Vergnügen vorbei. Kein wohlklingendes, blubberndes Geräusch, dass auf die Aufbereitung des Wassers vermuten liesse - nur Stille und ein aufgeregtes Blinken der Bereitschaftsanzeige. Was ist passiert? Hat mein Sohn hinter meinem Rücken das gute Stück malträtiert und ihr den Garaus gemacht? Verdammt, mir gelüstet nach Kaffee!! Muß ich zum Werkzeug greifen? Eine Woche warte ich nicht auf Ersatz!!!Solle sich diese Situtation auch mal bei Ihnen einstellen, dann machen Sie bitte folgendes:1. Bewahren Sie Ruhe2. Füllen Sie den Wassertank auf3. Kontrollieren Sie, ob sich auch die Füllstandsanzeige im Wassertank ca. 2cm nach oben bewegt hat4. Falls nicht, schütteln Sie ein wenig den Tank oder nehmen Sie ein Messer zur Hand und lösen den verkanteten Schwimmer (er fungiert als Auslöser für einen im Gehäuse eingebauten Sensor)So und jetzt sollte die Maschine wieder blubbern und Sie auch mit einem Kaffee belohnen. Zu den weiteren positiven Eigenschaften der Seneso wurde eigentlich schon genug rezitiert. Übrigens -  ich hätte mir eine andere ausgesucht, wenn ich nicht von dem Produkt überzeugt wäre.Die Lieferzeit und der Amazonpreis verdienen das Prädikat "ausgezeichnet" !!!!
+
+relations:
+aspect token: Seneso
+subjective token: positiven Eigenschaften
+subjective polar: positive
+
+aspect token: Produkt
+subjective token: hätte mir eine andere ausgesucht, wenn ich nicht von dem Produkt überzeugt wäre
+subjective polar: positive
+
+aspect token: Lieferzeit
+subjective token: verdienen das Prädikat "ausgezeichnet"
+subjective polar: positive
+
+aspect token: Amazonpreis
+subjective token: verdienen das Prädikat "ausgezeichnet"
+subjective polar: positive
+
+
+product id: B0000X5GAQ
+review text: Aufgrund der Bewertungen habe ich für unser Büro die Kaffemaschine bestellt, da die alte m.M. zu langsam geworden war. Tatsächlich liefert die Neue bessere Zeitwerte und heißen Kaffee. Zu bemängeln ist aber, das nach jedem Gebrauch (8-10 Tassen) der Filter komplett gereinigt werden muss, da das Kaffeemehl jedesmal über den Papierfilter (Aldi Größe 4) schwappt. Entweder haben die beim Papier gespart oder der Durchlauf ist doch noch zu langsam.
+
+relations:
+aspect token: Neue
+subjective token: bessere Zeitwerte
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: heißen
+subjective polar: positive
+
+aspect token: Filter
+subjective token: Zu bemängeln
+subjective polar: negative
+
+aspect token: Filter
+subjective token: komplett gereinigt werden muss
+subjective polar: negative
+
+aspect token: Papier
+subjective token: gespart
+subjective polar: negative
+
+aspect token: Durchlauf
+subjective token: doch noch zu langsam
+subjective polar: negative
+
+
+product id: B0024NPPGA
+review text: Bin mit dem Kauf und der täglichen Verwendung sehr zufrieden.Einziger kleiner Makel: die Kanne kleckert beim einschenken.Wissen jetzt aber, wie das zu vermeiden ist = Deckel beim eingiessen leicht anheben.
+
+relations:
+aspect token: täglichen Verwendung
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Kauf
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: kleckert
+subjective polar: negative
+
+
+product id: B0000BY5H0
+review text: Wir sind von einer Tchibo Cafissimo zur Senseo umgestiegen und fragen uns warum nicht schon früher?So viel Auswahl an Pads wie für diese Maschine haben wir noch nie gesehen, wir machen mit ihr Kaffee in allen möglichen Geschmacksrichtungen, Kakao und Tee, alles ist einfach zuzubereiten und schmeckt super.Wir haben bisher keinerlei Fremdgeschmack wie z.B. von Plastik festgestellt, wir benutzen sie genau nach Anleitung.Auch die Reinigung ist sehr einfach da sich die Einzelteile gut entnehmen lassen.
+
+relations:
+aspect token: Senseo
+subjective token: warum nicht schon früher
+subjective polar: positive
+
+aspect token: Pads
+subjective token: So viel Auswahl
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: in allen möglichen Geschmacksrichtungen
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: einfach zuzubereiten
+subjective polar: positive
+
+aspect token: Kakao
+subjective token: einfach zuzubereiten
+subjective polar: positive
+
+aspect token: Tee
+subjective token: einfach zuzubereiten
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt super
+subjective polar: positive
+
+aspect token: Tee
+subjective token: schmeckt super
+subjective polar: positive
+
+aspect token: Kakao
+subjective token: schmeckt super
+subjective polar: positive
+
+aspect token: Reinigung
+subjective token: sehr einfach
+subjective polar: positive
+
+aspect token: Einzelteile
+subjective token: da sich die Einzelteile gut entnehmen lassen
+subjective polar: positive
+
+
+product id: B004KLYM36
+review text: Artikel wie beschrieben, alles fein. Ein Manko hat das Teil wofür aber der Lieferant nichts kann: die Höhenverstellung ist sehr praktisch, allerdings entstehen bei der Höhenvestellung scharfe Kanten. Nicht missverstehen: es ist alles sauber verarbeitet, aber sobald die Stellfläche verändert wird, ist halt alles nicht mehr so kompakt, sondern greift man dann hinter die Maschine kann schon mal ein bisschen Haut hängen bleiben. Muss man halt ein bisschen vorsichtiger an den Wassertank greifen.Verpackung in Ordnung!Versand in Ordnung!Lieferant und Artikel grundsätzlich zu empfehlen!Preis annehmbar!
+
+relations:
+aspect token: Artikel
+subjective token: wie beschrieben
+subjective polar: positive
+
+aspect token: Höhenverstellung
+subjective token: Manko
+subjective polar: negative
+
+aspect token: Höhenverstellung
+subjective token: sehr praktisch
+subjective polar: positive
+
+aspect token: Höhenvestellung
+subjective token: entstehen bei der Höhenvestellung scharfe Kanten
+subjective polar: negative
+
+aspect token: verarbeitet
+subjective token: sauber
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: kann schon mal ein bisschen Haut hängen bleiben
+subjective polar: negative
+
+aspect token: Verpackung
+subjective token: in Ordnung
+subjective polar: neutral
+
+aspect token: Versand
+subjective token: in Ordnung
+subjective polar: neutral
+
+aspect token: Lieferant
+subjective token: grundsätzlich zu empfehlen
+subjective polar: positive
+
+aspect token: Artikel
+subjective token: grundsätzlich zu empfehlen
+subjective polar: positive
+
+aspect token: Preis
+subjective token: annehmbar
+subjective polar: neutral
+
+
+product id: B0048LKBBU
+review text: Die Kaffeemaschine ist gut verarbeitet, der Kaffee schmeckt sehr gut und die Stärke kann eingestellt werden.Allerdings ist das Wasser einfüllen nicht gerade geschickt gemacht worden, deshalb nur 4 Sterne.
+
+relations:
+aspect token: verarbeitet
+subjective token: gut
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt sehr gut
+subjective polar: positive
+
+aspect token: Wasser einfüllen
+subjective token: nicht gerade geschickt gemacht
+subjective polar: negative
+
+
+product id: B000BNROJG
+review text: Diese Kaffeemaschine scheint nur mit Einwegpads zu funktionieren, d.h. wenn man bereit ist, viel Geld für schlechten, unfair gehandelten Kaffee und erhöhtes Müllvolumen auszugeben.Bei Verwendung wiederverwendbarer Pads mit dem eigenen Wunschkaffee kommt entweder eine dünner Brühe heraus (Druck zu niedrig, Wassertemperatur auch zu niedrig) oder gleich gar nichts. Im letzteren Fall entsteht in der Maschine ein Überdruck und man hat das Gefühl, die Maschine fliege gleich in die Luft. Das ist mir glücklicherweise noch nicht passiert, aber ich habe mit dieser Maschine schon viel Kaffee verdaddelt.
+
+relations:
+aspect token: Mehrweg-Pads
+subjective token: Nicht für Mehrweg-Pads geeignet
+subjective polar: negative
+
+aspect token: Kaffeemaschine
+subjective token: nur mit Einwegpads zu funktionieren
+subjective polar: negative
+
+aspect token: Kaffee
+subjective token: viel Geld für schlechten, unfair gehandelten Kaffee und erhöhtes Müllvolumen auszugeben
+subjective polar: negative
+
+aspect token: Müllvolumen
+subjective token: viel Geld für schlechten, unfair gehandelten Kaffee und erhöhtes Müllvolumen auszugeben
+subjective polar: negative
+
+aspect token: Verwendung wiederverwendbarer Pads
+subjective token: entweder eine dünner Brühe heraus (Druck zu niedrig, Wassertemperatur auch zu niedrig) oder gleich gar nichts
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: hat das Gefühl, die Maschine fliege gleich in die Luft
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: schon viel Kaffee verdaddelt
+subjective polar: negative
+
+
+product id: B004BCDB2C
+review text: ansprechendes Design, gute Verarbeitung, schnelle und gute Funktionsfähigkeit, leichte Handhabung, gute und umfangreiche  Gebrauchsanweisung, empfehle Gerät gerne weiter, gerne wieder
+
+relations:
+aspect token: Design
+subjective token: ansprechendes
+subjective polar: positive
+
+aspect token: Verarbeitung
+subjective token: gute
+subjective polar: positive
+
+aspect token: Funktionsfähigkeit
+subjective token: schnelle
+subjective polar: positive
+
+aspect token: Funktionsfähigkeit
+subjective token: gute
+subjective polar: positive
+
+aspect token: Handhabung
+subjective token: leichte
+subjective polar: positive
+
+aspect token: Gebrauchsanweisung
+subjective token: gute
+subjective polar: positive
+
+aspect token: Gebrauchsanweisung
+subjective token: umfangreiche
+subjective polar: positive
+
+aspect token: Gerät
+subjective token: empfehle Gerät gerne weiter
+subjective polar: positive
+
+
+product id: B004KLYM36
+review text: Wir sind nicht die typischen Kaffeetrinker, die literweise ihn verkonsumieren, so dass diese Maschine für uns genau das richtige ist. Man kann in kurzer Zeit die verschiedensten Kaffevarianten einfach auf den Tisch bringen.
+
+relations:
+aspect token: Gelegenheitskaffeetrinker
+subjective token: super
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: genau das richtige
+subjective polar: positive
+
+aspect token: Kaffevarianten
+subjective token: verschiedensten
+subjective polar: positive
+
+
+product id: B00170RHXU
+review text: Schöne und funktionelle Kaffeemaschine. Sieht aus, als würde sie lange halten. Kaffee schmeckt gut. Also. Was will man mehr?! Prima
+
+relations:
+aspect token: Gerät
+subjective token: Solides
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: Schöne
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: funktionelle
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt gut
+subjective polar: positive
+
+
+product id: B005FQJUI2
+review text: Kaffeemaschine war zwei Tage nach Bestellung bei mir und entsprach meinen Erwartungen.Da wir ein Zweipersonenhaushalt sind, ist die Größe der Glaskanne voll ausreichend.Der Kaffee schmeckt auch, also 5 Sterne
+
+relations:
+aspect token: Melitta
+subjective token: nicht enttäuscht
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: entsprach meinen Erwartungen
+subjective polar: positive
+
+aspect token: Größe der Glaskanne
+subjective token: voll ausreichend
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt
+subjective polar: positive
+
+
+product id: B004R50W9S
+review text: Kaffeeduft liegt in der Luft ....Eine sehr schöne Maschine und nach dem zweiten Lesen, in Ruhe, weil alle wollten sie ja gleich ausprobieren :-) ohne Schwierigkeiten zu bedienen. Mein Töchterlein ( 9 Jahre) hat sie gleich beim ersten mal bedienen können ;-)Mein Kaffee wartet...prost!!!
+
+relations:
+aspect token: Maschine
+subjective token: sehr schöne
+subjective polar: positive
+
+aspect token: bedienen
+subjective token: ohne Schwierigkeiten
+subjective polar: positive
+
+
+product id: B0000BY5H0
+review text: Ansicht ist diese Maschine ganz OK, wenn man schnell mal eine Tasse Kaffee benötigt (zum Beispiel morgens auf dem Sprungzur Arbeit). Die Maschine ist eigentlich ganz fix mit dem brühen des Kaffees: Reinigung der Maschine ist auch schnell zu erledigen.Aber nach zwei Jahren regelmäßigen Gebrauchens ist Ende mit der Maschine  (nix geht mehr...Schrottreif),ich spreche ausErfahrung ich hatte diese Maschine bereits zwei mal und jedes mal dass gleiche Spiel.  Deshalb zwei Sterne minus von mir.
+
+relations:
+aspect token: Maschine
+subjective token: ganz OK
+subjective polar: neutral
+
+aspect token: Maschine
+subjective token: eigentlich ganz fix
+subjective polar: positive
+
+aspect token: Reinigung der Maschine
+subjective token: schnell zu erledigen
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: Ende
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: nix geht mehr
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: Schrottreif
+subjective polar: negative
+
+
+product id: B0028R1YYY
+review text: Optisch gut anzusehen, kocht recht schnell den Kaffee. Der Deckel schließt gut. Die Kanne hält den Kaffee aber nicht lange heiß. Nach ca 1,5 Stunden ist er nur nochlauwarm. Ich!!! würde die Maschine nicht noch einmal kaufen. Hatte schon bessere.Das gute an der Kaffeemaschine ist ihre Größe. Die Kanne fasst tatsächlich 10 große Tassen. Das hatte ich noch nie.
+
+relations:
+aspect token: Optisch
+subjective token: gut anzusehen
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: recht schnell
+subjective polar: positive
+
+aspect token: Deckel
+subjective token: gut
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: nicht lange heiß
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: Ich!!! würde die Maschine nicht noch einmal kaufen
+subjective polar: negative
+
+aspect token: Kaffeemaschine
+subjective token: gute
+subjective polar: positive
+
+aspect token: Größe
+subjective token: gute
+subjective polar: positive
+
+
+product id: B0051PK37E
+review text: Diese niedliche Kaffeemaschine tut genau das, was sie soll: Sie kocht Kaffee und nimmt nicht allzuviel Platz weg. Der Kaffee ist durchaus trinkbar, die Maschine läuft nicht aus und am Wassertank sind die Füllhöhenmarkierungen gut zu erkennen. Was will man mehr.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: niedliche
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: tut genau das, was sie soll
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: durchaus trinkbar
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: läuft nicht aus
+subjective polar: positive
+
+aspect token: Füllhöhenmarkierungen
+subjective token: gut zu erkennen
+subjective polar: positive
+
+
+product id: B0090KFJBG
+review text: Nespresso hat wirklich den besten Geschmack als Espresso oder Lungo Tassen.Sieht sehr gut aus und funktioniert immer. Natürlich ist der Preis etwas teuer.Aber das große Geschäft wird mit dem Kapseln gemacht.Das einzige was mit sorge macht ist die Umweltverschmuzung die bei der Herstellung passiert und wenn mann den Alu-Rohstoff (Kapsel) einfach so wegschmeisst nur wegen einmal Kaffe trinken.
+
+relations:
+aspect token: Maschine
+subjective token: Super
+subjective polar: positive
+
+aspect token: Nespresso
+subjective token: besten Geschmack
+subjective polar: positive
+
+aspect token: Sieht
+subjective token: sehr gut
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: immer
+subjective polar: positive
+
+aspect token: Preis
+subjective token: etwas teuer
+subjective polar: negative
+
+aspect token: Umweltverschmuzung
+subjective token: einzige was mit sorge macht
+subjective polar: negative
+
+aspect token: Alu-Rohstoff
+subjective token: einfach so wegschmeisst
+subjective polar: negative
+
+
+product id: B0000BY5H0
+review text: Habe mir die Padmaschine anfang des Jahres gekauft.So einen Schrott ist mir noch nicht untergekommen.Zuerst war der Öffungsriegel nicht mehr funktionstüchtig nach dem ich diesen wieder in funktion bebracht habe viel die Heißwasserzubereitung aus.Kann nur jeden davon abraten sich diesen Müll zu bestellen.Nie wieder Philips!!!Philips HD 7810/60 Kaffeepadmaschine Senseo schwarz
+
+relations:
+aspect token: Öffungsriegel
+subjective token: nicht mehr funktionstüchtig
+subjective polar: negative
+
+aspect token: Heißwasserzubereitung
+subjective token: viel die Heißwasserzubereitung aus
+subjective polar: negative
+
+aspect token: Philips
+subjective token: Nie wieder
+subjective polar: negative
+
+
+product id: B0048LKBBU
+review text: Sehr schöne Maschine ,Kaffee schmeckt gut und bleibt lange sehr heiß in der Kanne, Maschine schaltet ca 10 min nach dem Brühvorgang ab. Punktabzug gibt es wegen der Wassereinfüllung für Linkshänder Top, aber für Rechtshänder etwas schwierig, aber damit kann man bei dem Preis leben.
+
+relations:
+aspect token: Maschine
+subjective token: Schöne
+subjective polar: positive
+
+aspect token: Preis Leistung
+subjective token: kaum zu schlagen
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: Sehr schöne
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt gut
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: lange sehr heiß
+subjective polar: positive
+
+aspect token: Wassereinfüllung
+subjective token: Punktabzug
+subjective polar: negative
+
+aspect token: Preis
+subjective token: damit kann man bei dem Preis leben
+subjective polar: positive
+
+
+product id: B004BCDB2C
+review text: Ich bin mit der Qualität sehr zufrieden!Es waren aber ein paar Probedurchläufe nötig bis ich "Meinen Kaffee" kochen konte, doch nun bin ich zufrieden.
+
+relations:
+aspect token: Qualität
+subjective token: sehr zufrieden
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Ich habe mich von den vielen positiven Bewertungen verleiten lassen und habe die Maschine bestellt. Bisher habe ich es auch nicht bereut, hoffe das bleibt so. Wir haben ziemlich kalkhaltiges Wasser, daher wird das Wasser vorgefiltert. Bin mal gespannt wie mein Feedback nach einem Jahr aussieht :)Nun zum Kaffee. Der wird recht schnell gebrüht und ist auch heiß. Die Thermoskanne hält den Kaffee ca. 1h gut heiß. Nach 2h ist der Kaffee gerade noch genießbar. Das ist meiner Meinung nach auch der einzige Schwachpunkt an dem Gerät, der mich allerdings nicht weiter stört.Der Praktische Verschluss mag für den ein oder anderen Kunden problematisch sein. Ich finde ihn super.Ich kann das Gerät nur weiterempfehlen.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Gute
+subjective polar: positive
+
+aspect token: Der
+subjective token: recht schnell gebrüht
+subjective polar: positive
+
+aspect token: Der
+subjective token: heiß
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: gerade noch genießbar
+subjective polar: negative
+
+aspect token: Gerät
+subjective token: einzige Schwachpunkt
+subjective polar: negative
+
+aspect token: Verschluss
+subjective token: Praktische
+subjective polar: positive
+
+aspect token: ihn
+subjective token: super
+subjective polar: positive
+
+aspect token: Gerät
+subjective token: nur weiterempfehlen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Der Kaffee wird schnell heiß aufgebrüht und schmeckt daher auch sehr gut.Nach ca. 2 Stunden ist der Kaffee nur noch grade, Temperatur bedingt, trinkbar...Schade dass es keine Thermoskanne aus Glas ist....
+
+relations:
+aspect token: Kaffee
+subjective token: schnell heiß aufgebrüht
+subjective polar: positive
+
+aspect token: schmeckt
+subjective token: sehr gut
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: nur noch grade, Temperatur bedingt, trinkbar
+subjective polar: negative
+
+aspect token: Thermoskanne aus Glas
+subjective token: Schade dass es keine Thermoskanne aus Glas ist
+subjective polar: negative
+
+
+product id: B000ALVUM6
+review text: Kaffemaschine erfüllt Ihren Zweck vollkommen und sieht zudem gut aus. Einzige Anmerkung ist der wackelige Filtertüteneinsatz.Ansonsten ein gutes Preis-Leistungsverhältnis.
+
+relations:
+aspect token: Design
+subjective token: Edles
+subjective polar: positive
+
+aspect token: Funktion
+subjective token: volle
+subjective polar: positive
+
+aspect token: Filtertüteneinsatz
+subjective token: etwas wackeliger
+subjective polar: negative
+
+aspect token: Kaffemaschine
+subjective token: erfüllt Ihren Zweck vollkommen
+subjective polar: positive
+
+aspect token: sieht
+subjective token: gut
+subjective polar: positive
+
+aspect token: Filtertüteneinsatz
+subjective token: wackelige
+subjective polar: negative
+
+aspect token: Preis-Leistungsverhältnis
+subjective token: gutes
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: genau so eine Kaffemaschine habe ich gesucht. kann ich nur Empfehlen.der Kaffe aus der Kanne geht ohne zu tropfen in die Tasse.
+
+relations:
+aspect token: kaffe
+subjective token: heißer
+subjective polar: positive
+
+aspect token: Kaffemaschine
+subjective token: genau so eine Kaffemaschine habe ich gesucht
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: ohne zu tropfen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Nach langem Suchen habe ich endlich eine passende Kaffeemaschine gefunden.Die Kanne ist sehr chic, wirkt klein und fein, hat aber dennoch viel Volumen.Das beste ist, daß nach dem der Kaffee durchgelaufen ist es kein nachtropfen gibt.D.h. es muß nicht nachgeputz und gewischt werden.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Nach langem Suchen habe ich endlich eine passende Kaffeemaschine gefunden
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: sehr chic
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: wirkt klein
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: fein
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: viel Volumen
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: beste
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Seit einigen Wochen ist diese Kaffemaschine bei mir im täglichen Gebrauch. Die Ausstattung ist einfach und ohne große Variationsmöglichkeiten hinsichtlich des Aromas. Das Ergebnis ist dennoch erstaunlich gut, wenn man einfach heißen und geschmacksintensiven Filterkaffee möchte. Praktisch ist zudem die handliche Thermoskanne mit dem praktischen Drehverschluß, der sich komplett entnehmen läßt und damit auch das Innenleben der Kanne jederzeit zu reinigen ist. Unter Berücksichtigung des Preis-Leistungsverhältnisses ist dies eine sehr gute Wahl gewesen.
+
+relations:
+aspect token: Ausstattung
+subjective token: einfach
+subjective polar: neutral
+
+aspect token: Ausstattung
+subjective token: ohne große
+subjective polar: neutral
+
+aspect token: Variationsmöglichkeiten
+subjective token: ohne große
+subjective polar: neutral
+
+aspect token: Ergebnis
+subjective token: erstaunlich gut
+subjective polar: positive
+
+aspect token: Filterkaffee
+subjective token: einfach heißen
+subjective polar: positive
+
+aspect token: Filterkaffee
+subjective token: geschmacksintensiven
+subjective polar: positive
+
+aspect token: Thermoskanne
+subjective token: Praktisch
+subjective polar: positive
+
+aspect token: Thermoskanne
+subjective token: handliche
+subjective polar: positive
+
+aspect token: Innenleben
+subjective token: jederzeit zu reinigen
+subjective polar: positive
+
+aspect token: Preis-Leistungsverhältnisses
+subjective token: sehr gute Wahl
+subjective polar: positive
+
+aspect token: Drehverschluß
+subjective token: praktischen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Es wurde schon viel über diese Kaffeemaschine geschrieben. Deshalb möchte ich mich auf die nicht auf den ersten Blick erkennbaren Defizite beschränken.Leider wird meines Erachtens bei den Rezensionen der Eindruck erweckt, als ob mit dieser Kaffemaschine der Kaffeegenuß neu zu definieren wäre. Der Kaffee schmeckt meines Erachtens nicht anders als bei einer deutlich billigeren Maschine. Warum auch, denn es wird auch nur mit Wasser, Kaffeepulver und Papierfilter gearbeitet! Die Optik (aber das ist ja auch mehr Geschmackssache) und die Verarbeitung machen einen soliden Eindruck. Aber das darf man für diesen Preis auch erwarten (empfohlender VK EUR 111,00!!).Obwohl Philips schon jahrelange Erfahrungen in diesem Segment hat, ist es unverständlich, dass nachfolgende Nachteile zu bemängeln sind.Die Kaffekanne besteht aus einem doppelwandigem Edelstahlgehäuse (dies ist nicht negativ zu werten). Nimmt man die Kanne aus der Maschine und stellt sie (ob voll oder leer) auf einer Kunststoff- oder Holzplatte ab (Küchenarbeitsplatten und Esstische bestehen meist aus dies diesem Material) gibt sie das Geschäusch einer leeren Blechdose ab und dies klingt verständlicherweise nicht gerate wertig. Dies hätte vermieden werden können, wären an den Edelstahlfüßchen am Kannenboden Silikoneinlagen eingearbeitet worden.Damit wäre auch verhindert worden, dass der Hochglanzbodeneinsatz schon nach kurzem Gebrauch verkratzt wird. Einem Hersteller mit langjähriger Erfahrung auf diesem Gebiet, sollten solche Kinderkrankheiten nicht passieren.Der Wasserstandsanzeiger ist viel zu schmal geraten und damit auch die Zahlen schlecht ablesbar. Hier scheint Optik vor Nutzen gestellt worden zu sein.Wer mit diesen "Kinderkrankheiten" leben kann, ist mir der Maschine sicher gut bedient. Der Versand durch Amazon garantiert auf jeden Fall einen reibungslosen Bestellablauf, schnell, gut verpackt und wenn es mal ein Problemchen geben sollte, einen ausgezeichneten Kundenservice!
+
+relations:
+aspect token: Maschine
+subjective token: Kaffegenuß wird mit dieser Maschine nicht neu definiert
+subjective polar: negative
+
+aspect token: Kaffee
+subjective token: nicht anders als
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: deutlich billigeren
+subjective polar: positive
+
+aspect token: Optik
+subjective token: soliden Eindruck
+subjective polar: positive
+
+aspect token: Verarbeitung
+subjective token: soliden Eindruck
+subjective polar: positive
+
+aspect token: Philips
+subjective token: unverständlich
+subjective polar: negative
+
+aspect token: Philips
+subjective token: nachfolgende Nachteile zu bemängeln
+subjective polar: negative
+
+aspect token: Edelstahlgehäuse
+subjective token: doppelwandigem
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: klingt verständlicherweise nicht gerate wertig
+subjective polar: negative
+
+aspect token: Silikoneinlagen
+subjective token: hätte vermieden werden können, wären an den Edelstahlfüßchen am Kannenboden Silikoneinlagen eingearbeitet worden
+subjective polar: negative
+
+aspect token: Hochglanzbodeneinsatz
+subjective token: nach kurzem Gebrauch verkratzt
+subjective polar: negative
+
+aspect token: Hersteller
+subjective token: sollten solche Kinderkrankheiten nicht passieren
+subjective polar: negative
+
+aspect token: Wasserstandsanzeiger
+subjective token: viel zu schmal geraten
+subjective polar: negative
+
+aspect token: Zahlen
+subjective token: schlecht ablesbar
+subjective polar: negative
+
+aspect token: Optik
+subjective token: Hier scheint Optik vor Nutzen gestellt worden zu sein
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: sicher gut bedient
+subjective polar: positive
+
+aspect token: Bestellablauf
+subjective token: reibungslosen
+subjective polar: positive
+
+aspect token: Versand durch Amazon
+subjective token: schnell
+subjective polar: positive
+
+aspect token: verpackt
+subjective token: gut
+subjective polar: positive
+
+aspect token: Kundenservice
+subjective token: ausgezeichneten
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Maschine funktioniert wunderbar und ist einfach zu bedienen. Der Kaffee schmeckt so, wie ich es erwartet habe und der Brühvorgang ist erstaunlich schnell. Die Edelstahlkanne lässt sich nach kurzer Eingewöhnung gut bedienen und zeigt auch nicht im Geringsten eine Neigung zum Tropfen. Außerdem hält die Kanne den Kaffee sehr lange warm. Eine beinahe rundum gelungen Maschine. Einziger Nachteil liegt in der Handhabung des Filters. Der Filterhalter lässt sich nur komplett mit dem gesamten Schwenkarm herausnehmen. Das Einsetzten ist nach Leerung dann  manchmal leider etwas fummelig. Hier hätte ich mir einen separaten Filterhaltereinsatz im Schwenkhalter gewünscht. Philips HD 7546/20 Gaia Therm Thermos Kaffeemaschine
+
+relations:
+aspect token: Kaffee
+subjective token: Kaffee pur
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: wunderbar
+subjective polar: positive
+
+aspect token: bedienen
+subjective token: einfach
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: wie ich es erwartet habe
+subjective polar: positive
+
+aspect token: Brühvorgang
+subjective token: erstaunlich schnell
+subjective polar: positive
+
+aspect token: bedienen
+subjective token: gut
+subjective polar: positive
+
+aspect token: Edelstahlkanne
+subjective token: nicht im Geringsten eine Neigung zum Tropfen
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: sehr lange warm
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: beinahe rundum gelungen
+subjective polar: positive
+
+aspect token: Handhabung des Filters
+subjective token: Einziger Nachteil
+subjective polar: negative
+
+aspect token: Einsetzten
+subjective token: manchmal leider etwas fummelig
+subjective polar: negative
+
+aspect token: separaten Filterhaltereinsatz
+subjective token: hätte ich mir einen separaten Filterhaltereinsatz im Schwenkhalter gewünscht
+subjective polar: negative
+
+
+product id: B000ALVUM6
+review text: Kann nichts anderes sagen als: "Alles in bester Ordnung"Vielen Dank Kann nichts anderes sagen als: "Alles in bester Ordnung"Bin mit der Ware 100% zufrieden, genau wie beschrieben.Vielen Dank
+
+relations:
+aspect token: Ware
+subjective token: 100% zufrieden
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Wir haben uns nach einer Kaffeemaschine umgeschaut, die auch wirklich guten und heißen Kaffee brüht. Hatten bis jetzt immer nur Pleiten, aber diese hat unsere Erwartungen übertroffen. Wie die meisten Kunden, die die Maschine positiv bewertet haben, kann ich auch nur sagen, 5 Sterne. Heißer Kaffee (war uns sehr wichtig) Tropf-Stopp-Funktion und leichte Bedienung. Kurz gesagt: würde diese Kaffeemaschine wieder kaufen.
+
+relations:
+aspect token: diese
+subjective token: Erwartungen übertroffen
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: 5 Sterne
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: Heißer
+subjective polar: positive
+
+aspect token: Bedienung
+subjective token: leichte
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: würde diese Kaffeemaschine wieder kaufen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Habe die Kaffeemaschine nun einen Monat, sie läuft leise, schnell und ohne weitre Macken zu zeigen.Der Kaffee schmeckt und bleibt sehr lange heiß. Auch das automatische abschalten nach dem der Kaffeedurchgelaufen ist funktioniert bestens.Ich würde sie mir jeder Zeit wieder kaufen und kann sie nur "heiß" empfehlen.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: leise
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: schnell
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: ohne weitre Macken
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: sehr lange heiß
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: bestens
+subjective polar: positive
+
+aspect token: sie
+subjective token: würde sie mir jeder Zeit wieder kaufen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Phillips HD7546/20 ist die beste Kaffeemaschine die wir je hatten,arbeitet geräuscharm,hält den Kaffee über Stunden sehr heiß,die automatische Endabschaltung ist genial,tropft nicht und ist sehr elegant im Design.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: beste
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: beste
+subjective polar: positive
+
+aspect token: arbeitet
+subjective token: geräuscharm
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: hält den Kaffee über Stunden sehr heiß
+subjective polar: positive
+
+aspect token: automatische Endabschaltung
+subjective token: genial
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: tropft nicht
+subjective polar: positive
+
+aspect token: Design
+subjective token: sehr elegant
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Der Kaffee ist relativ zügig bereit, die Kanne (kein Glas, auch innen Edelstahl) hält den Kaffee relativ lang warm - besonderen Gefallen finde ich an der automatischen Abschaltung - und der gebürstete Edelstahl-Look gefällt ;) Empfehlung!
+
+relations:
+aspect token: Kaffee
+subjective token: relativ zügig bereit
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: hält den Kaffee relativ lang warm
+subjective polar: positive
+
+aspect token: automatischen Abschaltung
+subjective token: besonderen Gefallen
+subjective polar: positive
+
+aspect token: gebürstete Edelstahl-Look
+subjective token: gefällt
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Das viele suchen nach einer wirklich genialen Kaffeemaschine hat nun endlich ein Ende.Habe viele schon gehabt, da ich ein Kaffeekannen-TOD bin.Dazu kommt, ich lieb Kaffee, und das täglich - stündlich.Dies Kaffeemaschine macht es meinem Konsum sehr einfach. Befüllen, anschalten, warten bis er duch ist bzw. mir abholen. Da sich diese Maschine von allein abschaltet ist die Stromrechnung duch dauerbetrieb nicht mehr gar so extrem. Und somit muss ich mich nachts auch nicht mehr wundern was für ein roter Punkt in der Küche so hell aufleuchtet.Mein Kaffee bleibt in der Maschine ca. 6 Stunden heiss. Sobald ich den Kaffeefilter ausschwenke wird diese Zeit verlängert. Denn der Filter drückt den Einlauf nach unten, dadurch ist ein durchlass ja vorhanden.Das der Befülldeckel fürs Wasser nach vorn sich öffnet, ist sich schnell dran gewöhnt. Die Kabelmenge ist für mich sehr aussreichend. Selbst das der Deckel in die entgegengesetzte Richtung zu öffnen ist, ist nach 1-2 mal nutzen auch im Kopf. Und die Leichtgängigkeit verhindert das der Deckelgriff abbricht. Was bei mir bisher immer der Fall war.Auch das innere säubern der Maschine ist mit einer Handelsüblichen Bürste sehr leicht durchführbar.Alles in allem danke ich Phillips für diese "hochlebende" Kaffeemaschine.Würde diese Maschinen mit sehr gutem Gewissen weiterempfehlen.Wenn ich könnte würd ich mehr als 5 Sterne dafür geben.
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: wirklich genialen
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: macht es meinem Konsum sehr einfach
+subjective polar: positive
+
+aspect token: Stromrechnung
+subjective token: nicht mehr gar so extrem
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: bleibt in der Maschine ca. 6 Stunden heiss
+subjective polar: positive
+
+aspect token: Kabelmenge
+subjective token: sehr aussreichend
+subjective polar: positive
+
+aspect token: Deckelgriff
+subjective token: Leichtgängigkeit
+subjective polar: positive
+
+aspect token: Deckelgriff
+subjective token: verhindert das der Deckelgriff abbricht
+subjective polar: positive
+
+aspect token: säubern
+subjective token: sehr leicht durchführbar
+subjective polar: positive
+
+aspect token: Phillips
+subjective token: danke
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: hochlebende
+subjective polar: positive
+
+aspect token: Maschinen
+subjective token: mit sehr gutem Gewissen weiterempfehlen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Maschine war ein Weihnachtsgeschenk für jemanden und ich habe lange lange gesucht und die Bewertungen und der Preis dazu haben mich überzeugt. Die Beschenkte Person ist sehr zufrieden und es ist auch die erste Thermokanne und diese tropft nicht und alles ist chic.
+
+relations:
+aspect token: Bewertungen
+subjective token: überzeugt
+subjective polar: positive
+
+aspect token: Preis
+subjective token: überzeugt
+subjective polar: positive
+
+aspect token: Thermokanne
+subjective token: tropft nicht
+subjective polar: positive
+
+aspect token: alles
+subjective token: chic
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Diesen stabilen Kaffeeautomaten würde ich jederzeit wieder kaufen. Wenn der Verschluss dichter oder besser verarbeitet wäre, würden nicht hin und wieder beim Ausgießen Tropfen "vorbeilaufen". Ansonsten brüht er gut und hätl die Wärme in der Isolierkanne. Eine gute Mischung aus Metallverarbeitung und Kunststoff.
+
+relations:
+aspect token: Kaffeeautomat
+subjective token: Guter
+subjective polar: positive
+
+aspect token: Kaffeeautomaten
+subjective token: stabilen
+subjective polar: positive
+
+aspect token: Kaffeeautomaten
+subjective token: jederzeit wieder kaufen
+subjective polar: positive
+
+aspect token: Verschluss
+subjective token: dichter oder besser verarbeitet wäre
+subjective polar: negative
+
+aspect token: Tropfen
+subjective token: beim Ausgießen Tropfen "vorbeilaufen"
+subjective polar: negative
+
+aspect token: brüht
+subjective token: gut
+subjective polar: positive
+
+aspect token: Isolierkanne
+subjective token: hätl die Wärme
+subjective polar: positive
+
+aspect token: Metallverarbeitung
+subjective token: gute Mischung
+subjective polar: positive
+
+aspect token: Kunststoff
+subjective token: gute Mischung
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Sehr gute Filterkaffemachine. Preisleistung stimmt. Kaffee schmeckt gut. Thermoskanne hat tolle Verschluss - bedienbar mit nur einem Hand. Einzige Nachteil sehe ich dass edelstahlversion nicht spülmachinengeeignet ist und Handling mit der Filtereinsatzeinheit etwas gewöhnungsbedürftig ist.Alles im allen kann ich dieses Produkt weiter empfehlen!
+
+relations:
+aspect token: Filterkaffemachine
+subjective token: Prima
+subjective polar: positive
+
+aspect token: Filterkaffemachine
+subjective token: Sehr gute
+subjective polar: positive
+
+aspect token: Preisleistung
+subjective token: stimmt
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt gut
+subjective polar: positive
+
+aspect token: Verschluss
+subjective token: tolle
+subjective polar: positive
+
+aspect token: edelstahlversion
+subjective token: Einzige Nachteil
+subjective polar: negative
+
+aspect token: Handling
+subjective token: Einzige Nachteil
+subjective polar: negative
+
+aspect token: edelstahlversion
+subjective token: nicht spülmachinengeeignet
+subjective polar: negative
+
+aspect token: Handling
+subjective token: etwas gewöhnungsbedürftig
+subjective polar: negative
+
+aspect token: Produkt
+subjective token: weiter empfehlen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Wir haben uns für die Maschine u.a. wegen der durchwegs guten Bewertung entschieden.Leider hat das Gerät trotz mehrmaligen Spülens mit kochendem Wasser seinen unangenehmen Geruch nicht verloren. Wir haben es deshalb zurückgegeben.
+
+relations:
+aspect token: Geruch
+subjective token: unangenehmer
+subjective polar: negative
+
+aspect token: Geruch
+subjective token: unangenehmen Geruch nicht verloren
+subjective polar: negative
+
+aspect token: es
+subjective token: zurückgegeben
+subjective polar: negative
+
+
+product id: B000ALVUM6
+review text: Dieser Artikel ist aus meiner Sicht nicht empfehlenswert. Schon nach 11/4 Jahr ist die Maschine defekt. Anfänglich waren wirbegeistert, doch nach einem Jahr fing die Pumpe an, laute Geräusche von sich zu geben, die sich nach der ersten vorschriftsmäßigen Reinigung gaben. Nun ist es soweit, daß die Pumpe nur noch 3/4 Wasser abpumpt und die Maschine sichausstellt obwohl noch Wasser im Behälter ist. Da ich noch Garantie habe, habe ich sie zurückgeschickt.Mal sehen was daraus wird.
+
+relations:
+aspect token: Artikel
+subjective token: nicht empfehlenswert
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: defekt
+subjective polar: negative
+
+aspect token: sie
+subjective token: zurückgeschickt
+subjective polar: negative
+
+aspect token: Pumpe
+subjective token: laute Geräusche
+subjective polar: negative
+
+aspect token: 3/4 Wasser
+subjective token: nur noch
+subjective polar: negative
+
+aspect token: Maschine
+subjective token: ausstellt obwohl noch Wasser im Behälter ist
+subjective polar: negative
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine hält was sie verspricht. Kaffee bleibt in der Kanne lange heiß und ist auch super schnell durchgelaufen. Abschaltautomatik funktioniert super. Wir haben nur eine Weile gebraucht, um das richtige Kaffeemaß zu finden. Die ersten Kochversuche waren leider so stark, dass man den Kaffee fast nicht trinken konnte. Haben aber jetzt ein gutes Maß gefunden und sparen damit auch noch Kaffeepulver...
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Sehr gute
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: hält was sie verspricht
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: lange heiß
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: super schnell
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: super
+subjective polar: positive
+
+aspect token: Kaffeepulver
+subjective token: sparen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Ich habe die Kaffemaschine auf Grund der abgegebenen guten Rezensionen bestellt und bin mit dem Gerät voll zufrieden. Die Lieferung wurde sehr schnell ausgeführt. Ich kann die Maschine nur empfehlen.
+
+relations:
+aspect token: Gerät
+subjective token: voll zufrieden
+subjective polar: positive
+
+aspect token: Lieferung
+subjective token: sehr schnell
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: nur empfehlen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Wir haben uns für diese Kaffeemaschine entschieden, da die alte mit Glaskanne leider nicht mehr wollte.Thermoskanne war Pflicht. Aufgrund der vielzahl an positiven Bewertungen viel es uns nicht schwer uns auch für dieses Modell zu entscheiden.Positiv:-Abschaltautomatik-Kanne (Kaffee bleibt sehr lange heiß)-Designnegativ:eigentlich nichts, wünschenswert wäre evt. noch ein abnehmbarer Wassertank
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: TOP
+subjective polar: positive
+
+aspect token: Abschaltautomatik
+subjective token: Positiv
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: Positiv
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: Positiv
+subjective polar: positive
+
+aspect token: Design
+subjective token: Positiv
+subjective polar: positive
+
+aspect token: abnehmbarer Wassertank
+subjective token: wünschenswert
+subjective polar: negative
+
+
+product id: B000ALVUM6
+review text: Nachdem unsere alte Kaffeemaschine, die uns von Anfang an geärgert hat, endlich ihren Geist aufgegeben hat, haben wir jetzt einen wirklich gute Wahl getroffen. Dieses Gerät verkalkt so gut wir gar nicht, ist leicht zu bedienen und einfach sauberzuhalten. Der Kaffee schmeckt auch noch gut und läuft schnell durch. Was will man mehr!
+
+relations:
+aspect token: Kauf
+subjective token: Sehr guter
+subjective polar: positive
+
+aspect token: Gerät
+subjective token: verkalkt so gut wir gar nicht
+subjective polar: positive
+
+aspect token: bedienen
+subjective token: leicht
+subjective polar: positive
+
+aspect token: sauberzuhalten
+subjective token: einfach
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt auch noch gut
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schnell
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine ist seit etlicher Zeit bei mir störungsfrei im Betrieb und ich habe mir soeben noch ein zweites baugleiches Gerät besorgt. Sie funktioniert einwandfrei, das Wasser läuft zügig durch. Das Plastik für den Deckel des Wasserbehälters könnte dicker sein. Sie neigt nicht zum Verkalken. Praktisch ist die Thermoskanne. Im Gegensatz zu einer Glaskanne hält sie den Kaffee lange warm, was auch Energie spart. Tropfschutz, Abschaltung etc. alles bestens. Lediglich die Komplettentleerung der Kanne gelingt nicht immer auf Anhieb, es bleib gerne Kaffee darin ürbig. Deshalb nach Benutzung Kanne stets unter laufendem Wasser kurz ausschwenken, damit sie innen blitzeblank bleibt.
+
+relations:
+aspect token: Geld
+subjective token: okay
+subjective polar: neutral
+
+aspect token: Kaffeemaschine
+subjective token: störungsfrei
+subjective polar: positive
+
+aspect token: baugleiches Gerät
+subjective token: zweites baugleiches Gerät besorgt
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: einwandfrei
+subjective polar: positive
+
+aspect token: Wasser
+subjective token: läuft zügig durch
+subjective polar: positive
+
+aspect token: Plastik
+subjective token: könnte dicker sein
+subjective polar: negative
+
+aspect token: Sie
+subjective token: neigt nicht zum Verkalken
+subjective polar: positive
+
+aspect token: Thermoskanne
+subjective token: Praktisch
+subjective polar: positive
+
+aspect token: Energie
+subjective token: spart
+subjective polar: positive
+
+aspect token: Tropfschutz
+subjective token: bestens
+subjective polar: positive
+
+aspect token: Abschaltung
+subjective token: bestens
+subjective polar: positive
+
+aspect token: Komplettentleerung
+subjective token: gelingt nicht immer
+subjective polar: negative
+
+aspect token: Kaffee
+subjective token: hält sie den Kaffee lange warm
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Zuerst haben sich meine Großeltern diese Maschine gekauft, so dass wir sie testen konnten. Wir waren so überzeugt von der Qualität, dass wir sie uns 2 Wochen später auch gekauft haben.Mittlerweile kochen wir seit ca. 6 Monaten unseren Kaffee mit der Philips-Kaffeemaschine und wir sind immer noch sehr zufrieden.Die Aussagen der letzten schlechten Bewertungen kann ich nicht bestätigen:- Der Filter kann sehr wohl abgenommen und sogar im Geschirrspüler  gereinigt werden. Man muss ihn leicht nach oben drücken, damit er an  der unteren Halterung aushakt.- Die Kanne wird mit einem Geschirrspültab, den man mindestens zwei  Stunden mit Wasser einwirken lässt, wunderbar sauber. Nach der  Einwirkzeit säubere ich die Kanne mit einer Isolierkannenbürste, die  es in jedem Drogeriemarkt gibt.- Ich habe auch keine Probleme damit die Maschine mit einer Hand  einzuschalten, ohne sie mit der anderen Hand von hinten festzuhalten.Unser Fazit: Die beste Kaffeemaschine, die wir bis jetzt benutzt haben...Und der Preis stimmt auch!
+
+relations:
+aspect token: Qualität
+subjective token: überzeugt
+subjective polar: positive
+
+aspect token: Philips-Kaffeemaschine
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Filter
+subjective token: kann sehr wohl abgenommen
+subjective polar: positive
+
+aspect token: Filter
+subjective token: im Geschirrspüler  gereinigt
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: wunderbar sauber
+subjective polar: positive
+
+aspect token: Maschine
+subjective token: keine Probleme
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: beste
+subjective polar: positive
+
+aspect token: Preis
+subjective token: stimmt auch
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine wurde ohne Schäden und in Originalverpackung geliefert!Das Überbrühen des Kaffees geht schnell und der Kaffee schmeckt super!Außerdem ist die Abschaltautomatik sehr gut. Man kann bedenkenlos die Maschine anmachen, ohne sich gedanken machen zu müssen ob etwas passiert falls die Maschine zu lange an ist...Da wir diese Kaffeemaschine nirgendwo günstiger gesehen haben und sehr zufrieden sind, ist dieser Artikel in jedem Fall weiter zu empfehlen!!!
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: ohne Schäden
+subjective polar: positive
+
+aspect token: Kaffees
+subjective token: schnell
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt super
+subjective polar: positive
+
+aspect token: Abschaltautomatik
+subjective token: sehr gut
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: nirgendwo günstiger
+subjective polar: positive
+
+aspect token: Kaffeemaschine
+subjective token: sehr zufrieden
+subjective polar: positive
+
+aspect token: Artikel
+subjective token: weiter zu empfehlen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Diese Maschine ist vom Preis-Leistungs-Verhältnis her top!Sie ist sehr wertig verarbeitet, Gehäuse und Kanne wirken stabil, und auch die Optik (Edelstahl und schwarzer Kunststoff) stimmt.Der Kaffee schmeckt prima und lässt sich aus der Isolierkanne auch tropfenfrei einschenken (bei anderen Modellen geht da ja gerne mal etwas daneben).Besonders praktisch ist die Abschaltautomatik - sobald der Kaffee durchgelaufen ist, schaltet sich die Maschine selbst ab. Das spart Strom, und man muss nicht mehr selbst dran denken, den Ausknopf zu drücken.Kaufempfehlung!
+
+relations:
+aspect token: Kauf
+subjective token: Guter
+subjective polar: positive
+
+aspect token: Preis-Leistungs-Verhältnis
+subjective token: top
+subjective polar: positive
+
+aspect token: verarbeitet
+subjective token: sehr wertig
+subjective polar: positive
+
+aspect token: Gehäuse
+subjective token: stabil
+subjective polar: positive
+
+aspect token: Kanne
+subjective token: stabil
+subjective polar: positive
+
+aspect token: Optik
+subjective token: stimmt
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: schmeckt prima
+subjective polar: positive
+
+aspect token: Isolierkanne
+subjective token: tropfenfrei einschenken
+subjective polar: positive
+
+aspect token: anderen Modellen
+subjective token: bei anderen Modellen geht da ja gerne mal etwas daneben
+subjective polar: positive
+
+aspect token: Abschaltautomatik
+subjective token: praktisch
+subjective polar: positive
+
+aspect token: Strom
+subjective token: spart
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Dies war ein Muttertagsgeschenk an meine Mutter~Die Kaffeemaschine ist gut verarbeitet; vor allem die robuste Metallhülle hat meine Mutter überzeugt.Zudem bleibt der Kaffee in der Kanne wirklich SEHR lang' heiß.Morgens gemacht, nach einigen Stunden am Kolleg wieder zurück Zuhause - Kaffee in der Kanne noch sehr warm. Nicht kochend, aber Sehr warm.Die Zubereitung des Kaffees dauert rund 3-4 Minuten und ist, denke ich, völlig in Ordnung.Der einzige kleine Nachteil ist das Herausnehmen und Hineinstecken der Kanne in die Kaffeemaschine, was oftmals ein kleines bisschen hakt, sowie der Schreibfehler "Kaffemaschine" [KaffeEmaschine] im Produktname.
+
+relations:
+aspect token: Sie
+subjective token: tut, was sie tun soll
+subjective polar: positive
+
+aspect token: verarbeitet
+subjective token: gut
+subjective polar: positive
+
+aspect token: Metallhülle
+subjective token: robuste
+subjective polar: positive
+
+aspect token: Metallhülle
+subjective token: überzeugt
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: SEHR lang' heiß
+subjective polar: positive
+
+aspect token: Kaffee
+subjective token: sehr warm
+subjective polar: positive
+
+aspect token: Herausnehmen
+subjective token: einzige kleine Nachteil
+subjective polar: negative
+
+aspect token: Produktname
+subjective token: einzige kleine Nachteil
+subjective polar: negative
+
+aspect token: Hineinstecken
+subjective token: einzige kleine Nachteil
+subjective polar: negative
+
+aspect token: Produktname
+subjective token: Schreibfehler
+subjective polar: negative
+
+aspect token: Zubereitung des Kaffees
+subjective token: völlig in Ordnung
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Als Ich auf meinem Arbeitsplatz, diese Kaffeemaschine sah, war mir klar, die muß Ich auch haben.Denn klasse ist es, dass Sie sich automatisch aussetzt und man hat auch noch eine Thermokanne dazu.Vor allem eine die nicht aus Glas ist.Nur schade dass meine beim rausnehmen weiter tropft.Ansonsten sehr empfehlenswert!Ich würde sie sofort nochmal kaufen.
+
+relations:
+aspect token: automatisch aussetzt
+subjective token: klasse
+subjective polar: positive
+
+aspect token: meine
+subjective token: weiter tropft
+subjective polar: negative
+
+aspect token: sie
+subjective token: würde sie sofort nochmal kaufen
+subjective polar: positive
+
+
+product id: B000ALVUM6
+review text: Die Kaffeemaschine sieht nicht nur toll aus, sie funktioniert auch erstklassig. Der Timer schaltet die Maschine automatisch ab und die Thermoskann ist wirklich hochwertig. EMPFEHLENSWERT!
+
+relations:
+aspect token: Kaffeemaschine
+subjective token: Tolle
+subjective polar: positive
+
+aspect token: sieht
+subjective token: toll
+subjective polar: positive
+
+aspect token: funktioniert
+subjective token: erstklassig
+subjective polar: positive
+
+aspect token: Thermoskann
+subjective token: wirklich hochwertig
+subjective polar: positive
+
+

@@ -1,0 +1,66 @@
+# submit: organized folder for code submit (for one of sentiment classification experiment)
+
+required: 
+- Python 3
+- Tensorflow
+- Numpy
+
+quick execute: ./run.sh -> will generate results.txt
+(cnn training will last some minutes, be patient:))
+ 
+code explanation:
+
+cnn-related:
+Reference code:
+1.http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
+2.https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb
+3.Ana Marasovic's code for MSC, of publication Ana Marasovic and Anette Frank (2016): Multilingual modal sense classification using a convolutional neural network. In Proceedings of the 1st Workshop on Representation Learning for NLP, Berlin, Germany
+
+  - classifier1: positive and negative data, one sentence per line
+
+  - build_vocab_embed.py
+  * Used for build vocabulary and embeddings(randomly initialized embedding and pre-trained word2vec embedding) 
+  * usage: python3 build_vocab_embed.py -> generate random_class1-a1.pickle, w2v_class1-a1.pickle
+
+  - build_data.py 
+  * Used for build train_dataset, train_label, test_dataset, test_label, vocabulary and embeddings.
+  * usage: python3 build_data.py -> random_class1-a1_data.pickle, w2v_class1-a1_data.pickle
+
+  - cnn_static.py (has detailed comment)
+  - cnn_tuned.py  (short comment)
+  - execute.py
+  * cnn implementation, static and tuned version
+  * usage: python3 execute.py test static  -> get test accuracy of static version
+  	   python3 execute.py test tuned   -> get test accuracy of tuned version
+
+  - cnn_class_fm_static.py
+  - cnn_class_fm_tuned.py
+  - execute_fm.py
+  * cnn implementation plus feature map, static and tuned version
+  * usage: python3 execute.py test static  -> get test accuracy of static version
+  	   python3 execute.py test tuned   -> get test accuracy of tuned version
+	   n-grams is extracted in feature_maps_test_static and feature_maps_test_tuned folder
+
+Note: cnn_static/tuned and cnn_class_fm_static/tuned results little bit different due to different standard deviation setting
+
+Data-related: USAGE-corpus-with-text
+  - my code in USAGE-corpus-with-text/program 
+  ->unorganized, used for changed whole reviews to sentences and extract sentences which conclude subjective   phrase-target relations, and replace coreferent pronounces with labeled antecedents; also extracted paraphrases and other experiments data. (see report)
+  - main: sentence.py
+
+Evaluation-related:
+  - average_precision.py  -> mean average precision with tie
+  - ngramRank.py -> end result
+  * usage: python ngramRank.py static
+           python ngramRank.py tuned
+ 
+# other code in ../mycode: unorganized folder for all experiments (Don't look:))
+
+Todo list: 
+1. cross validation and more experiments, better effect experiment running implementation.
+2. continue tensorflow learning: 
+- https://www.youtube.com/watch?v=L8Y2_Cq2X5s - a 1:20h tensorflow tutorial at Stanford’s “Deep learning for NLP” course (finished)
+- https://github.com/jorditorresBCN/FirstContactWithTensorFlow (great start, day1-4 finished, Todo day5)
+- https://classroom.udacity.com/courses/ud730/lessons/6377263405/concepts/66010388990923 (convolutional networks finished, Todo others, great assignments)
+ 
+

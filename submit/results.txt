@@ -1,0 +1,104 @@
+sentiment classification for [-phrases]
+cnn-static
+Initialized
+Minibatch loss at step 0 : 1.1156
+Minibatch accuracy: 36.0%
+
+
+Minibatch loss at step 100 : 0.781902
+Minibatch accuracy: 72.0%
+
+
+Minibatch loss at step 200 : 0.686458
+Minibatch accuracy: 78.0%
+
+
+Minibatch loss at step 300 : 0.648271
+Minibatch accuracy: 74.0%
+
+
+Minibatch loss at step 400 : 0.607423
+Minibatch accuracy: 88.0%
+
+
+Minibatch loss at step 500 : 0.603692
+Minibatch accuracy: 82.0%
+
+
+Minibatch loss at step 600 : 0.475925
+Minibatch accuracy: 92.0%
+
+
+Minibatch loss at step 700 : 0.609539
+Minibatch accuracy: 76.0%
+
+
+Minibatch loss at step 800 : 0.554417
+Minibatch accuracy: 88.0%
+
+
+Minibatch loss at step 900 : 0.431355
+Minibatch accuracy: 96.0%
+
+
+Minibatch loss at step 1000 : 0.470173
+Minibatch accuracy: 86.0%
+
+
+valid accuracy: 81.8181818182
+
+
+cnn-tuned
+Initialized
+Minibatch loss at step 0 : 1.19365
+Minibatch accuracy: 22.0%
+
+
+Minibatch loss at step 100 : 0.718122
+Minibatch accuracy: 78.0%
+
+
+Minibatch loss at step 200 : 0.774221
+Minibatch accuracy: 66.0%
+
+
+Minibatch loss at step 300 : 0.63486
+Minibatch accuracy: 80.0%
+
+
+Minibatch loss at step 400 : 0.585595
+Minibatch accuracy: 84.0%
+
+
+Minibatch loss at step 500 : 0.496268
+Minibatch accuracy: 94.0%
+
+
+Minibatch loss at step 600 : 0.470769
+Minibatch accuracy: 92.0%
+
+
+Minibatch loss at step 700 : 0.544016
+Minibatch accuracy: 86.0%
+
+
+Minibatch loss at step 800 : 0.403962
+Minibatch accuracy: 96.0%
+
+
+Minibatch loss at step 900 : 0.336716
+Minibatch accuracy: 98.0%
+
+
+Minibatch loss at step 1000 : 0.349217
+Minibatch accuracy: 96.0%
+
+
+valid accuracy: 80.4545454545
+
+
+Exaction of subjective phrases for [+phrases,+unseen]
+cnn-static
+mean average precison, static: 0.758230519481
+cnn-tuned
+mean average precison, tuned: 0.788235930736

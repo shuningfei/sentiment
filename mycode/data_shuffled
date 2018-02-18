@@ -1,0 +1,52 @@
+Train data shape: (9662, 59)
+
+Test data shape: (1000, 59)
+
+Train data shape: (9662, 59)
+
+Test data shape: (1000, 59)
+
+Train data shape: (1981, 185)
+
+Test data shape: (220, 185)
+
+Train data shape: (1154955,)
+
+Test data shape: (220, 185)
+
+Train data shape: (1154955,)
+
+Test data shape: (220, 185)
+
+Train data shape: (1981, 185)
+
+Test data shape: (220, 185)
+
+Train data shape: (6243, 185)
+
+Test data shape: (220, 185)
+
+Train data shape: (4659, 185)
+
+Test data shape: (220, 185)
+
+Train data shape: (1399, 185)
+
+Test data shape: (155, 185)
+
+Train data shape: (1244, 185)
+
+Test data shape: (310, 185)
+
+Train data shape: (3313, 185)
+
+Test data shape: (368, 185)
+
+Train data shape: (3313, 185)
+
+Test data shape: (368, 185)
+
+Train data shape: (3313, 185)
+
+Test data shape: (368, 185)
+
